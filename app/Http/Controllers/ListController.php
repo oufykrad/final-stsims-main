@@ -8,9 +8,11 @@ use App\Models\Scholar;
 use App\Models\SchoolCampus;
 use App\Models\SchoolCourse;
 use App\Models\SchoolSemester;
+use App\Models\ListAgency;
 use App\Models\ListDropdown;
 use App\Models\ListExpense;
-use App\Models\ListBenefit;
+use App\Models\ListPrivilege;
+use App\Models\ListStatus;
 use App\Models\ListProgram;
 use App\Models\LocationRegion;
 use App\Models\LocationProvince;
@@ -80,6 +82,50 @@ class ListController extends Controller
 
     public function semesteryear($id,$year){
         $data = SchoolSemester::with('semester')->where('school_id',$id)->whereYear('start_at', '>=' ,$year)->orderBy('id','DESC')->get();
+        return $data;
+    }
+
+    public function api_agencies(){
+        $data = ListAgency::all();
+        return $data;
+    }
+
+    public function api_dropdowns(){
+        $data = ListDropdown::all();
+        return $data;
+    }
+
+    public function api_privileges(){
+        $data = ListPrivilege::all();
+        return $data;
+    }
+
+    public function api_programs(){
+        $data = ListProgram::all();
+        return $data;
+    }
+
+    public function api_statuses(){
+        $data = ListStatus::all();
+        return $data;
+    }
+
+    public function api_location($type)
+    {   
+        switch($type){
+            case 'regions' :
+                $data = LocationRegion::get();
+            break;
+            case 'provinces' :
+                $data = LocationProvince::get();
+            break;
+            case 'municipalities' :
+                $data = LocationMunicipality::get();
+            break;
+            case 'barangays' :
+                $data = LocationBarangay::get();
+            break;
+        }
         return $data;
     }
 }

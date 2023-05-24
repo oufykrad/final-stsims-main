@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use Laravel\Sanctum\PersonalAccessToken;
 use App\Models\Scholar;
 use App\Models\ScholarAddress;
 use App\Models\ScholarProfile;
@@ -205,7 +206,11 @@ class ScholarController extends Controller
                                     $address->municipality_code = $b->municipality->code;
                                 }
                                 $address->barangay_code = $b->code;
-                                $address->district = $b->district;
+                                if($b->municipality->is_chartered){
+                                    $address->district = $b->district;
+                                }else{
+                                    $address->district = $b->municipality->district;
+                                }
                                 $address->save();
                             }else{
                                 $barangay = null;
@@ -536,7 +541,9 @@ class ScholarController extends Controller
                     $m->save();
                 }
                 $municipality = $m->code;
-                $district = $m->district;
+                if(!$m->is_chartered){
+                    $district = $m->district;
+                }
             }else{
                 $municipality = null;
             }
@@ -563,8 +570,10 @@ class ScholarController extends Controller
     
     }
 
-    public function api(){
-        $region = '090000000';
+    public function api(Request $request){
+        $bearer = $request->bearerToken();
+        $token = PersonalAccessToken::findToken($bearer);
+        $region = $token->tokenable->profile->agency->region_code;
        
         $data = Scholar::with('addresses')->with('education')->with('profile')
         ->whereHas('education',function ($query) use ($region) {

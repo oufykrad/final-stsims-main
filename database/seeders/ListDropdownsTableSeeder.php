@@ -271,6 +271,87 @@ class ListDropdownsTableSeeder extends Seeder
                 'color' => 'n/a',
                 'others' => 'Fifth Year',
             ),
+            28 => 
+            array (
+                'id' => 29,
+                'name' => 'Personal Services',
+                'classification' => 'Expenditure',
+                'type' => 'n/a',
+                'color' => 'n/a',
+                'others' => 'PS',
+            ),
+            29 => 
+            array (
+                'id' => 30,
+                'name' => 'Maintenance And Other Operating Expenses',
+                'classification' => 'Expenditure',
+                'type' => 'n/a',
+                'color' => 'n/a',
+                'others' => 'MOOE',
+            ),
+            30 => 
+            array (
+                'id' => 31,
+                'name' => 'Special Purposes',
+                'classification' => 'Expenditure',
+                'type' => 'n/a',
+                'color' => 'n/a',
+                'others' => 'SP',
+            ),
+            31 => 
+            array (
+                'id' => 32,
+                'name' => 'Capital Outlay',
+                'classification' => 'Expenditure',
+                'type' => 'n/a',
+                'color' => 'n/a',
+                'others' => 'Capital Outlay',
+            ),
+            32 => 
+            array (
+                'id' => 33,
+                'name' => 'Summa Cum Laude ',
+                'classification' => 'Award',
+                'type' => 'n/a',
+                'color' => 'n/a',
+                'others' => '1',
+            ),
+            33 => 
+            array (
+                'id' => 34,
+                'name' => 'Magna Cum Laude',
+                'classification' => 'Award',
+                'type' => 'n/a',
+                'color' => 'n/a',
+                'others' => '2',
+            ),
+            34 => 
+            array (
+                'id' => 35,
+                'name' => 'Cum Laude',
+                'classification' => 'Award',
+                'type' => 'n/a',
+                'color' => 'n/a',
+                'others' => '3',
+            ),
+            35 => 
+            array (
+                'id' => 36,
+                'name' => 'Honorable Mention',
+                'classification' => 'Award',
+                'type' => 'n/a',
+                'color' => 'n/a',
+                'others' => '4',
+            ),
+            36 => 
+            array (
+                'id' => 37,
+                'name' => 'Academic Distinction',
+                'classification' => 'Award',
+                'type' => 'n/a',
+                'color' => 'n/a',
+                'others' => '5',
+            ),
         ));
         
         

@@ -118,6 +118,39 @@ class ListStatusesTableSeeder extends Seeder
                 'created_at' => '2023-05-21 19:20:42',
                 'updated_at' => '2023-05-21 19:20:42',
             ),
+            9 => 
+            array (
+                'id' => 10,
+                'name' => 'Pending',
+                'type' => 'Benefit Status',
+                'color' => 'bg-warning',
+                'others' => 'n/a',
+                'is_active' => 1,
+                'created_at' => '2023-05-23 18:49:22',
+                'updated_at' => '2023-05-23 18:49:22',
+            ),
+            10 => 
+            array (
+                'id' => 11,
+                'name' => 'Waiting',
+                'type' => 'Benefit Status',
+                'color' => 'bg-info',
+                'others' => 'n/a',
+                'is_active' => 1,
+                'created_at' => '2023-05-23 18:53:51',
+                'updated_at' => '2023-05-23 18:53:51',
+            ),
+            11 => 
+            array (
+                'id' => 12,
+                'name' => 'Released',
+                'type' => 'Benefit Status',
+                'color' => 'bg-succces',
+                'others' => 'n/a',
+                'is_active' => 1,
+                'created_at' => '2023-05-23 18:54:44',
+                'updated_at' => '2023-05-23 18:54:47',
+            ),
         ));
         
         

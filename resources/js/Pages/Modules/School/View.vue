@@ -113,8 +113,7 @@
                                                         </td>
                                                         <td class="text-end">
                                                             <b-button variant="soft-primary" v-b-tooltip.hover title="Edit" size="sm" class="edit-list me-1"><i class="ri-pencil-fill align-bottom"></i> </b-button>
-                                                            <!-- <Link :href="`/schools/${list.code}`"><b-button variant="soft-info" v-b-tooltip.hover title="View" size="sm" class="edit-list"><i class="ri-eye-fill align-bottom"></i> </b-button></Link> -->
-                                                            
+                                                            <b-button @click="show(list)" variant="soft-info" v-b-tooltip.hover title="View" size="sm" class="edit-list"><i class="ri-eye-fill align-bottom"></i> </b-button>
                                                         </td>
                                                     </tr>
                                                 </tbody>
@@ -130,11 +129,13 @@
        </b-col>
     </b-row>
     <Campus :terms="terms" :gradings="gradings" :regions="regions" ref="campus"/>
+    <Show ref="show"/>
 </template>
 <script>
 import Campus from './Modals/Campus.vue';
+import Show from './Modals/Show.vue';
 export default {
-    components : { Campus },
+    components : { Campus, Show },
     props: ['school','dropdowns','regions'],
     data() {
         return {
@@ -171,7 +172,10 @@ export default {
         },
         add(data){
             this.school.data.campuses.unshift(data);
-        }
+        },
+        show(data){
+            this.$refs.show.show(data);
+        },
     }
 }
 </script>
