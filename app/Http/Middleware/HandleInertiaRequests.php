@@ -28,7 +28,7 @@ class HandleInertiaRequests extends Middleware
     {   
         if(\Auth::check()){
             $agency_id = (\Auth::user()->profile->agency) ? \Auth::user()->profile->agency->id : '';
-            if($agency){
+            if($agency_id){
                 $agency = ListAgency::with('region')->where('id',$agency_id)->first();
             }else{
                 $agency = '';
