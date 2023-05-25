@@ -164,7 +164,7 @@
 import Multiselect from '@suadelabs/vue3-multiselect';
 export default {
     components : { Multiselect },
-    props: ['classes','terms','gradings','regions'],
+    props: ['classes','terms','gradings','regions','agency_code'],
     data(){
         return {
             currentUrl: window.location.origin,
@@ -241,11 +241,13 @@ export default {
             (this.address != '') ? data.append('address', (this.address != undefined) ? this.address : '') : '';
             data.append('new', (this.showNow) ? true : false);
             data.append('is_main', (this.showNow) ? 1 : 0);
+            data.append('assigned_region', this.agency_code);
             
             this.$inertia.post('/schools-temporary', data, {
                 preserveScroll: true,
                 forceFormData: true,
                 onSuccess: (response) => {
+                    this.$emit('info',true);
                     this.hide();
                 },
                 onError: () => {
@@ -256,6 +258,20 @@ export default {
 
         hide(){
             this.errors = [];
+            this.region = '';
+            this.province = '';
+            this.municipality = '';
+            this.address = '';
+            this.campus = '';
+            this.shortcut = '';
+            this.name = '';
+            this.deped_id = '';
+            this.term = '';
+            this.klas = '';
+            this.grading = '';
+            this.is_main = null;
+            this.is_empty = false,
+            this.showNow = false,
             this.showModal = false;
         },
         asyncSchool(value) {

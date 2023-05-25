@@ -24,7 +24,7 @@
                                                     {{ agency.acronym }}</div>
                                                 <div class="vr"></div>
                                                 <div><i class="ri-map-pin-fill align-bottom me-1"></i>
-                                                    {{ agency.region.name }},  {{ agency.region.region }}</div>
+                                                    {{ agency.region.name }},  {{ agency.region.region }} </div>
                                             </div>
                                         </div>
                                     </b-col>
@@ -68,7 +68,7 @@
                                             <table class="table table-nowrap align-middle mb-0">
                                                 <thead class="table-light">
                                                     <tr class="fs-11">
-                                                        <th style="width: 10%;">Campus</th>
+                                                        <th style="width: 10%;">Name</th>
                                                         <th style="width: 10%;" class="text-center">Main Campus</th>
                                                         <th style="width: 10%;" class="text-center">Term</th>
                                                         <th style="width: 10%;" class="text-center">Grading</th>
@@ -77,12 +77,12 @@
                                                         <th style="width: 15%;" class="text-center">Region</th>
                                                         <th style="width: 15%;" class="text-center">Assigned</th>
                                                         <th style="width: 10%;" class="text-center">Status</th>
-                                                        <th style="width: 5%;"></th>
+                                                        <!-- <th style="width: 5%;"></th> -->
                                                     </tr>
                                                 </thead>
                                                 <tbody>
-                                                    <tr v-for="list in schools" v-bind:key="list.id" :class="[(list.is_active == 0) ? 'table-warnings' : '']">
-                                                        <td v-b-tooltip.hover :title="list.oldname">{{list.campus}}</td>
+                                                    <tr v-for="list in lists" v-bind:key="list.id" class="fs-11" :class="[(list.is_active == 0) ? 'table-warnings' : '']">
+                                                        <td v-b-tooltip.hover :title="list.oldname">{{list.name}} - {{list.campus}}</td>
                                                         <td class="text-center">
                                                             <span v-if="list.is_main" class="badge bg-success">Yes</span>
                                                             <span v-else class="badge bg-danger">No</span>
@@ -97,13 +97,14 @@
                                                             <span v-if="list.is_active" class="badge bg-success">Active</span>
                                                             <span v-else class="badge bg-danger">Inactive</span>
                                                         </td>
-                                                        <td class="text-end">
+                                                        <!-- <td class="text-end">
                                                             <b-button variant="soft-primary" v-b-tooltip.hover title="Edit" size="sm" class="edit-list me-1"><i class="ri-pencil-fill align-bottom"></i> </b-button>
                                                             <b-button @click="show(list)" variant="soft-info" v-b-tooltip.hover title="View" size="sm" class="edit-list"><i class="ri-eye-fill align-bottom"></i> </b-button>
-                                                        </td>
+                                                        </td> -->
                                                     </tr>
                                                 </tbody>
                                             </table>
+                                            <Pagination class="ms-2 me-2" v-if="meta" @fetch="fetch" :lists="lists.length" :links="links" :pagination="meta" />
                                         </div>
                                     </b-row>
                                 </b-card-body>
@@ -114,18 +115,22 @@
             </div>
        </b-col>
     </b-row>
-    <Create :classes="classes" :terms="terms" :gradings="gradings" :regions="regions" ref="create"/>
+    <Create @info="fetch()" :agency_code="agency.region.code" :classes="classes" :terms="terms" :gradings="gradings" :regions="regions" ref="create"/>
 </template>
 <script>
 import Create from './Modals/Create.vue';
 import PageHeader from "@/Shared/Components/PageHeader.vue";
+import Pagination from "@/Shared/Components/Pagination.vue";
 export default {
     props: ['agency','dropdowns', 'regions'],
-    components: { PageHeader, Create },
+    components: { PageHeader, Pagination, Create },
     data() {
         return {
             currentUrl: window.location.origin,
-            schools: []
+            lists: [],
+            meta: {},
+            links: {},
+            keyword: null
         };
     },
     computed: {
@@ -142,10 +147,32 @@ export default {
             return this.$page.props.flash.datares;
         }
     },
+    created(){
+        this.fetch();
+    },
     methods: {
         create(){
             this.$refs.create.show();
-        }
+        },
+         fetch(page_url) {
+            page_url = page_url || '/schools-temporary';
+            axios.get(page_url, {
+                params: {
+                    keyword: this.keyword,
+                    region: (this.region) ? this.region.code : '',
+                    province: (this.province) ? this.province.code : '',
+                    municipality: (this.municipality) ? this.municipality.code : '',
+                    counts: ((window.innerHeight-410)/56),
+                    type: 'lists'
+                }
+            })
+            .then(response => {
+                this.lists = response.data.data;
+                this.meta = response.data.meta;
+                this.links = response.data.links;
+            })
+            .catch(err => console.log(err));
+        },
     }
 }
 </script>

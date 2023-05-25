@@ -20,7 +20,7 @@ class SchoolCampusTemp extends Model
         'municipality_code',
         'province_code',
         'region_code',
-        'assigned_code'
+        'assigned_region'
     ];
 
     public function assigned()
