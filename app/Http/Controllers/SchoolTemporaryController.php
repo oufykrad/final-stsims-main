@@ -10,6 +10,10 @@ use App\Http\Resources\SchoolListResource;
 
 class SchoolTemporaryController extends Controller
 {
+    public function index(){
+        return inertia('Modules/School/Temp/Index');
+    }
+
     public function store(Request $request){
        $region_code = \Auth::user()->profile->agency->region_code;
         if($request->new == 'false'){

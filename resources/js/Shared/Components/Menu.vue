@@ -53,7 +53,13 @@
                         <i class='ri-team-fill'></i>
                         <span data-key="t-students">Scholars</span>
                     </Link>
-                </li>              
+                </li>  
+                 <li class="nav-item" v-if="$page.props.auth.data.role == 'Staff'">
+                    <Link class="nav-link menu-link" :class="{'active': $page.component.startsWith('Modules/School/Temp') }" href="/schools-temporary">
+                        <i class='bx bxs-school'></i>
+                        <span data-key="t-students">Schools Temporary</span>
+                    </Link>
+                </li>               
             </ul>
             
             
