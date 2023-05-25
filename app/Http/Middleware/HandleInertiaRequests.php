@@ -25,10 +25,18 @@ class HandleInertiaRequests extends Middleware
     }
 
     public function share(Request $request): array
-    {
+    {   
+        if(\Auth::check()){
+            $agency_id = \Auth::user()->profile->agency->id;
+            $agency = ListAgency::with('region')->where('id',$agency_id)->first();
+        }else{
+            $agency = '';
+        }
+
         return array_merge(parent::share($request), [
             'auth' => (\Auth::check()) ? new UserResource(\Auth::user()) : '',
             'role' => (\Auth::check()) ? \Auth::user()->role : '',
+            'agency' => $agency,
             'flash' => [
                 'message' => session('message'),
                 'datares' => session('data'),

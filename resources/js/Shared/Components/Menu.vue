@@ -30,34 +30,28 @@
                         <span data-key="t-dashboards">Home</span>
                     </Link>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item" v-if="$page.props.auth.data.role == 'Administrator'">
                     <Link class="nav-link menu-link" :class="{'active': $page.component.startsWith('Modules/Staffs') }" href="/staffs">
                         <i class='bx bx-user-circle' ></i>
                         <span data-key="t-students">Staffs</span>
                     </Link>
                 </li>    
-                <li class="nav-item">
+                <li class="nav-item" v-if="$page.props.auth.data.role == 'Administrator'">
                     <Link class="nav-link menu-link" :class="{'active': $page.component.startsWith('Modules/Course') }" href="/courses">
                         <i class='bx bxs-graduation'></i>
                         <span data-key="t-students">Course</span>
                     </Link>
                 </li>     
-                <li class="nav-item">
+                <li class="nav-item" v-if="$page.props.auth.data.role == 'Administrator'">
                     <Link class="nav-link menu-link" :class="{'active': $page.component.startsWith('Modules/School') }" href="/schools">
                         <i class='bx bxs-school'></i>
                         <span data-key="t-students">Schools</span>
                     </Link>
                 </li>   
-                <li class="nav-item">
+                <li class="nav-item" v-if="$page.props.auth.data.role == 'Administrator'">
                     <Link class="nav-link menu-link" :class="{'active': $page.component.startsWith('Modules/Scholar') }" href="/scholars">
                         <i class='ri-team-fill'></i>
                         <span data-key="t-students">Scholars</span>
-                    </Link>
-                </li>    
-                <li class="nav-item">
-                    <Link class="nav-link menu-link" :class="{'active': $page.component.startsWith('Modules/School/Temp') }" href="/schools-temporary">
-                        <i class='bx bx-buildings'></i>
-                        <span data-key="t-students">Schools Temporary</span>
                     </Link>
                 </li>              
             </ul>

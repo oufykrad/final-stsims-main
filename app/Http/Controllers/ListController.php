@@ -6,6 +6,8 @@ use App\Models\User;
 use App\Models\ListCourse;
 use App\Models\Scholar;
 use App\Models\SchoolCampus;
+use App\Models\SchoolTemp;
+use App\Models\SchoolCampusTemp;
 use App\Models\SchoolCourse;
 use App\Models\SchoolSemester;
 use App\Models\ListAgency;
@@ -59,6 +61,14 @@ class ListController extends Controller
         ->orWhere(function ($query) use ($keyword) {
             $query->where('campus',$keyword);
         })->get()->take(10);
+
+        return SearchResource::collection($data);
+    }
+
+    public function schoolstemporary(Request $request){
+
+        $keyword = $request->input('word');
+        $data = SchoolTemp::where('name', 'LIKE', '%'.$keyword.'%')->get()->take(10);
 
         return SearchResource::collection($data);
     }

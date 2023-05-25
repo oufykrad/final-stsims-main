@@ -14,11 +14,9 @@ class SearchResource extends JsonResource
      */
     public function toArray($request)
     {
-        $name = ucwords(strtolower($this->school->name));
-        $campus = ($this->is_main) ? '' : ' - '.ucwords(strtolower($this->campus)) ;
         return [
             'id' => $this->id,
-            'name' => $name.' '.$campus,
+            'name' => ucwords(strtolower($this->name)),
             'created_at' => $this->created_at,
             'updated_at' => $this->updated_at
         ];
