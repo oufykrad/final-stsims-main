@@ -27,8 +27,12 @@ class HandleInertiaRequests extends Middleware
     public function share(Request $request): array
     {   
         if(\Auth::check()){
-            $agency_id = \Auth::user()->profile->agency->id;
-            $agency = ListAgency::with('region')->where('id',$agency_id)->first();
+            $agency_id = (\Auth::user()->profile->agency) ? \Auth::user()->profile->agency->id : '';
+            if($agency){
+                $agency = ListAgency::with('region')->where('id',$agency_id)->first();
+            }else{
+                $agency = '';
+            }
         }else{
             $agency = '';
         }
