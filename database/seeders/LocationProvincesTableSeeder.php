@@ -593,13 +593,6 @@ class LocationProvincesTableSeeder extends Seeder
                 'name' => 'Metro Manila',
                 'region_code' => '130000000',
             ),
-            82 => 
-            array (
-                'id' => 83,
-                'code' => '099300000',
-                'name' => 'Zamboanga City',
-                'region_code' => '090000000',
-            ),
         ));
         
         

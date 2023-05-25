@@ -28,6 +28,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             1 => 
@@ -39,6 +40,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             2 => 
@@ -50,6 +52,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             3 => 
@@ -61,6 +64,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             4 => 
@@ -72,6 +76,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             5 => 
@@ -83,6 +88,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             6 => 
@@ -94,6 +100,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             7 => 
@@ -105,6 +112,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             8 => 
@@ -116,6 +124,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             9 => 
@@ -127,6 +136,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             10 => 
@@ -138,6 +148,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             11 => 
@@ -149,6 +160,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             12 => 
@@ -160,6 +172,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             13 => 
@@ -171,6 +184,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             14 => 
@@ -182,6 +196,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             15 => 
@@ -193,6 +208,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             16 => 
@@ -204,6 +220,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             17 => 
@@ -215,6 +232,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             18 => 
@@ -226,6 +244,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             19 => 
@@ -237,6 +256,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             20 => 
@@ -248,6 +268,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             21 => 
@@ -259,6 +280,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             22 => 
@@ -270,6 +292,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012800000',
             ),
             23 => 
@@ -281,6 +304,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             24 => 
@@ -292,6 +316,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             25 => 
@@ -303,6 +328,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             26 => 
@@ -314,6 +340,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             27 => 
@@ -325,6 +352,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             28 => 
@@ -336,6 +364,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             29 => 
@@ -347,6 +376,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             30 => 
@@ -358,6 +388,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             31 => 
@@ -369,6 +400,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             32 => 
@@ -380,6 +412,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             33 => 
@@ -391,6 +424,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             34 => 
@@ -402,6 +436,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             35 => 
@@ -413,6 +448,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             36 => 
@@ -424,6 +460,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             37 => 
@@ -435,6 +472,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             38 => 
@@ -446,6 +484,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             39 => 
@@ -457,6 +496,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             40 => 
@@ -468,6 +508,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             41 => 
@@ -479,6 +520,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             42 => 
@@ -490,6 +532,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             43 => 
@@ -501,6 +544,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             44 => 
@@ -512,6 +556,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             45 => 
@@ -523,6 +568,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             46 => 
@@ -534,6 +580,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             47 => 
@@ -545,6 +592,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             48 => 
@@ -556,6 +604,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             49 => 
@@ -567,6 +616,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             50 => 
@@ -578,6 +628,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             51 => 
@@ -589,6 +640,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             52 => 
@@ -600,6 +652,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             53 => 
@@ -611,6 +664,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             54 => 
@@ -622,6 +676,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             55 => 
@@ -633,6 +688,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             56 => 
@@ -644,6 +700,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '012900000',
             ),
             57 => 
@@ -655,6 +712,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '013300000',
             ),
             58 => 
@@ -666,6 +724,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '013300000',
             ),
             59 => 
@@ -677,6 +736,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '013300000',
             ),
             60 => 
@@ -688,6 +748,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '013300000',
             ),
             61 => 
@@ -699,6 +760,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '013300000',
             ),
             62 => 
@@ -710,6 +772,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '013300000',
             ),
             63 => 
@@ -721,6 +784,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '013300000',
             ),
             64 => 
@@ -732,6 +796,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '013300000',
             ),
             65 => 
@@ -743,6 +808,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '013300000',
             ),
             66 => 
@@ -754,6 +820,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '013300000',
             ),
             67 => 
@@ -765,6 +832,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '013300000',
             ),
             68 => 
@@ -776,6 +844,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '013300000',
             ),
             69 => 
@@ -787,6 +856,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '013300000',
             ),
             70 => 
@@ -798,6 +868,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '013300000',
             ),
             71 => 
@@ -809,6 +880,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '013300000',
             ),
             72 => 
@@ -820,6 +892,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '013300000',
             ),
             73 => 
@@ -831,6 +904,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '013300000',
             ),
             74 => 
@@ -842,6 +916,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '013300000',
             ),
             75 => 
@@ -853,6 +928,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '013300000',
             ),
             76 => 
@@ -864,6 +940,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '013300000',
             ),
             77 => 
@@ -875,6 +952,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             78 => 
@@ -886,6 +964,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             79 => 
@@ -897,6 +976,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             80 => 
@@ -908,6 +988,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             81 => 
@@ -919,6 +1000,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             82 => 
@@ -930,6 +1012,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             83 => 
@@ -941,6 +1024,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             84 => 
@@ -952,6 +1036,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             85 => 
@@ -963,6 +1048,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             86 => 
@@ -974,6 +1060,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             87 => 
@@ -985,6 +1072,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             88 => 
@@ -996,6 +1084,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             89 => 
@@ -1007,6 +1096,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             90 => 
@@ -1018,6 +1108,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             91 => 
@@ -1029,6 +1120,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             92 => 
@@ -1040,6 +1132,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             93 => 
@@ -1051,6 +1144,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             94 => 
@@ -1062,6 +1156,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             95 => 
@@ -1073,6 +1168,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             96 => 
@@ -1084,6 +1180,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             97 => 
@@ -1095,6 +1192,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             98 => 
@@ -1106,6 +1204,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             99 => 
@@ -1117,6 +1216,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             100 => 
@@ -1128,6 +1228,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             101 => 
@@ -1139,6 +1240,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             102 => 
@@ -1150,6 +1252,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             103 => 
@@ -1161,6 +1264,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             104 => 
@@ -1172,6 +1276,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             105 => 
@@ -1183,6 +1288,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             106 => 
@@ -1194,6 +1300,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             107 => 
@@ -1205,6 +1312,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             108 => 
@@ -1216,6 +1324,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             109 => 
@@ -1227,6 +1336,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             110 => 
@@ -1238,6 +1348,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             111 => 
@@ -1249,6 +1360,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             112 => 
@@ -1260,6 +1372,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             113 => 
@@ -1271,6 +1384,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             114 => 
@@ -1282,6 +1396,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             115 => 
@@ -1293,6 +1408,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             116 => 
@@ -1304,6 +1420,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             117 => 
@@ -1315,6 +1432,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             118 => 
@@ -1326,6 +1444,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             119 => 
@@ -1337,6 +1456,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             120 => 
@@ -1348,6 +1468,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             121 => 
@@ -1359,6 +1480,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             122 => 
@@ -1370,6 +1492,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             123 => 
@@ -1381,6 +1504,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             124 => 
@@ -1392,6 +1516,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '015500000',
             ),
             125 => 
@@ -1403,6 +1528,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '020900000',
             ),
             126 => 
@@ -1414,6 +1540,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '020900000',
             ),
             127 => 
@@ -1425,6 +1552,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '020900000',
             ),
             128 => 
@@ -1436,6 +1564,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '020900000',
             ),
             129 => 
@@ -1447,6 +1576,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '020900000',
             ),
             130 => 
@@ -1458,6 +1588,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '020900000',
             ),
             131 => 
@@ -1469,6 +1600,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             132 => 
@@ -1480,6 +1612,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             133 => 
@@ -1491,6 +1624,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             134 => 
@@ -1502,6 +1636,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             135 => 
@@ -1513,6 +1648,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             136 => 
@@ -1524,6 +1660,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             137 => 
@@ -1535,6 +1672,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             138 => 
@@ -1546,6 +1684,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             139 => 
@@ -1557,6 +1696,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             140 => 
@@ -1568,6 +1708,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             141 => 
@@ -1579,6 +1720,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             142 => 
@@ -1590,6 +1732,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             143 => 
@@ -1601,6 +1744,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             144 => 
@@ -1612,6 +1756,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             145 => 
@@ -1623,6 +1768,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             146 => 
@@ -1634,6 +1780,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             147 => 
@@ -1645,6 +1792,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             148 => 
@@ -1656,6 +1804,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             149 => 
@@ -1667,6 +1816,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             150 => 
@@ -1678,6 +1828,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             151 => 
@@ -1689,6 +1840,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             152 => 
@@ -1700,6 +1852,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             153 => 
@@ -1711,6 +1864,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             154 => 
@@ -1722,6 +1876,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             155 => 
@@ -1733,6 +1888,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             156 => 
@@ -1744,6 +1900,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             157 => 
@@ -1755,6 +1912,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             158 => 
@@ -1766,6 +1924,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             159 => 
@@ -1777,6 +1936,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '021500000',
             ),
             160 => 
@@ -1788,6 +1948,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             161 => 
@@ -1799,6 +1960,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             162 => 
@@ -1810,6 +1972,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             163 => 
@@ -1821,6 +1984,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             164 => 
@@ -1832,6 +1996,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             165 => 
@@ -1843,6 +2008,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             166 => 
@@ -1854,6 +2020,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => '3315',
                 'province_code' => '023100000',
             ),
             167 => 
@@ -1865,6 +2032,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             168 => 
@@ -1876,6 +2044,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             169 => 
@@ -1887,6 +2056,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             170 => 
@@ -1898,6 +2068,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             171 => 
@@ -1909,6 +2080,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             172 => 
@@ -1920,6 +2092,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             173 => 
@@ -1931,6 +2104,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             174 => 
@@ -1942,6 +2116,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             175 => 
@@ -1953,6 +2128,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             176 => 
@@ -1964,6 +2140,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             177 => 
@@ -1975,6 +2152,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             178 => 
@@ -1986,6 +2164,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             179 => 
@@ -1997,6 +2176,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             180 => 
@@ -2008,6 +2188,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             181 => 
@@ -2019,6 +2200,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             182 => 
@@ -2030,6 +2212,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             183 => 
@@ -2041,6 +2224,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             184 => 
@@ -2052,6 +2236,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             185 => 
@@ -2063,6 +2248,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             186 => 
@@ -2074,6 +2260,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             187 => 
@@ -2085,6 +2272,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             188 => 
@@ -2096,6 +2284,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             189 => 
@@ -2107,6 +2296,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             190 => 
@@ -2118,6 +2308,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             191 => 
@@ -2129,6 +2320,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             192 => 
@@ -2140,6 +2332,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             193 => 
@@ -2151,6 +2344,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             194 => 
@@ -2162,6 +2356,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             195 => 
@@ -2173,6 +2368,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             196 => 
@@ -2184,6 +2380,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '023100000',
             ),
             197 => 
@@ -2195,6 +2392,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025000000',
             ),
             198 => 
@@ -2206,6 +2404,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025000000',
             ),
             199 => 
@@ -2217,6 +2416,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025000000',
             ),
             200 => 
@@ -2228,6 +2428,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025000000',
             ),
             201 => 
@@ -2239,6 +2440,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025000000',
             ),
             202 => 
@@ -2250,6 +2452,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025000000',
             ),
             203 => 
@@ -2261,6 +2464,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025000000',
             ),
             204 => 
@@ -2272,6 +2476,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025000000',
             ),
             205 => 
@@ -2283,6 +2488,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025000000',
             ),
             206 => 
@@ -2294,6 +2500,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025000000',
             ),
             207 => 
@@ -2305,6 +2512,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025000000',
             ),
             208 => 
@@ -2316,6 +2524,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025000000',
             ),
             209 => 
@@ -2327,6 +2536,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025000000',
             ),
             210 => 
@@ -2338,6 +2548,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025000000',
             ),
             211 => 
@@ -2349,6 +2560,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025000000',
             ),
             212 => 
@@ -2360,6 +2572,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025700000',
             ),
             213 => 
@@ -2371,6 +2584,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025700000',
             ),
             214 => 
@@ -2382,6 +2596,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025700000',
             ),
             215 => 
@@ -2393,6 +2608,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025700000',
             ),
             216 => 
@@ -2404,6 +2620,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025700000',
             ),
             217 => 
@@ -2415,6 +2632,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '025700000',
             ),
             218 => 
@@ -2426,6 +2644,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '030800000',
             ),
             219 => 
@@ -2437,6 +2656,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '030800000',
             ),
             220 => 
@@ -2448,6 +2668,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '030800000',
             ),
             221 => 
@@ -2459,6 +2680,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '030800000',
             ),
             222 => 
@@ -2470,6 +2692,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '030800000',
             ),
             223 => 
@@ -2481,6 +2704,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '030800000',
             ),
             224 => 
@@ -2492,6 +2716,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '030800000',
             ),
             225 => 
@@ -2503,6 +2728,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '030800000',
             ),
             226 => 
@@ -2514,6 +2740,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '030800000',
             ),
             227 => 
@@ -2525,6 +2752,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '030800000',
             ),
             228 => 
@@ -2536,6 +2764,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '030800000',
             ),
             229 => 
@@ -2547,6 +2776,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '030800000',
             ),
             230 => 
@@ -2558,6 +2788,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             231 => 
@@ -2569,6 +2800,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             232 => 
@@ -2580,6 +2812,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             233 => 
@@ -2591,6 +2824,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             234 => 
@@ -2602,6 +2836,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             235 => 
@@ -2613,6 +2848,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             236 => 
@@ -2624,6 +2860,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             237 => 
@@ -2635,6 +2872,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             238 => 
@@ -2646,6 +2884,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             239 => 
@@ -2657,6 +2896,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             240 => 
@@ -2668,6 +2908,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             241 => 
@@ -2679,6 +2920,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             242 => 
@@ -2690,6 +2932,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             243 => 
@@ -2701,6 +2944,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             244 => 
@@ -2712,6 +2956,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             245 => 
@@ -2723,6 +2968,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             246 => 
@@ -2734,6 +2980,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             247 => 
@@ -2745,6 +2992,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             248 => 
@@ -2756,6 +3004,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             249 => 
@@ -2767,6 +3016,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             250 => 
@@ -2778,6 +3028,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             251 => 
@@ -2789,6 +3040,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             252 => 
@@ -2800,6 +3052,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             253 => 
@@ -2811,6 +3064,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '031400000',
             ),
             254 => 
@@ -2822,6 +3076,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             255 => 
@@ -2833,6 +3088,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             256 => 
@@ -2844,6 +3100,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             257 => 
@@ -2855,6 +3112,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             258 => 
@@ -2866,6 +3124,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             259 => 
@@ -2877,6 +3136,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             260 => 
@@ -2888,6 +3148,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             261 => 
@@ -2899,6 +3160,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             262 => 
@@ -2910,6 +3172,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             263 => 
@@ -2921,6 +3184,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             264 => 
@@ -2932,6 +3196,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             265 => 
@@ -2943,6 +3208,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             266 => 
@@ -2954,6 +3220,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             267 => 
@@ -2965,6 +3232,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             268 => 
@@ -2976,6 +3244,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             269 => 
@@ -2987,6 +3256,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             270 => 
@@ -2998,6 +3268,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             271 => 
@@ -3009,6 +3280,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             272 => 
@@ -3020,6 +3292,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             273 => 
@@ -3031,6 +3304,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             274 => 
@@ -3042,6 +3316,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             275 => 
@@ -3053,6 +3328,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             276 => 
@@ -3064,6 +3340,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             277 => 
@@ -3075,6 +3352,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             278 => 
@@ -3086,6 +3364,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             279 => 
@@ -3097,6 +3376,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             280 => 
@@ -3108,6 +3388,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             281 => 
@@ -3119,6 +3400,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             282 => 
@@ -3130,6 +3412,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             283 => 
@@ -3141,6 +3424,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             284 => 
@@ -3152,6 +3436,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             285 => 
@@ -3163,6 +3448,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '034900000',
             ),
             286 => 
@@ -3174,6 +3460,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             287 => 
@@ -3185,6 +3472,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             288 => 
@@ -3196,6 +3484,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             289 => 
@@ -3207,6 +3496,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             290 => 
@@ -3218,6 +3508,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             291 => 
@@ -3229,6 +3520,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             292 => 
@@ -3240,6 +3532,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             293 => 
@@ -3251,6 +3544,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             294 => 
@@ -3262,6 +3556,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             295 => 
@@ -3273,6 +3568,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             296 => 
@@ -3284,6 +3580,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             297 => 
@@ -3295,6 +3592,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             298 => 
@@ -3306,6 +3604,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             299 => 
@@ -3317,6 +3616,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             300 => 
@@ -3328,6 +3628,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             301 => 
@@ -3339,6 +3640,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             302 => 
@@ -3350,6 +3652,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             303 => 
@@ -3361,6 +3664,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             304 => 
@@ -3372,6 +3676,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             305 => 
@@ -3383,6 +3688,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             306 => 
@@ -3394,6 +3700,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             307 => 
@@ -3405,6 +3712,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '035400000',
             ),
             308 => 
@@ -3416,6 +3724,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '036900000',
             ),
             309 => 
@@ -3427,6 +3736,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '036900000',
             ),
             310 => 
@@ -3438,6 +3748,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '036900000',
             ),
             311 => 
@@ -3449,6 +3760,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '036900000',
             ),
             312 => 
@@ -3460,6 +3772,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '036900000',
             ),
             313 => 
@@ -3471,6 +3784,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '036900000',
             ),
             314 => 
@@ -3482,6 +3796,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '036900000',
             ),
             315 => 
@@ -3493,6 +3808,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '036900000',
             ),
             316 => 
@@ -3504,6 +3820,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '036900000',
             ),
             317 => 
@@ -3515,6 +3832,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '036900000',
             ),
             318 => 
@@ -3526,6 +3844,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '036900000',
             ),
             319 => 
@@ -3537,6 +3856,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '036900000',
             ),
             320 => 
@@ -3548,6 +3868,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '036900000',
             ),
             321 => 
@@ -3559,6 +3880,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '036900000',
             ),
             322 => 
@@ -3570,6 +3892,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '036900000',
             ),
             323 => 
@@ -3581,6 +3904,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '036900000',
             ),
             324 => 
@@ -3592,6 +3916,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '036900000',
             ),
             325 => 
@@ -3603,6 +3928,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '036900000',
             ),
             326 => 
@@ -3614,6 +3940,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '037100000',
             ),
             327 => 
@@ -3625,6 +3952,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '037100000',
             ),
             328 => 
@@ -3636,6 +3964,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '037100000',
             ),
             329 => 
@@ -3647,6 +3976,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '037100000',
             ),
             330 => 
@@ -3658,6 +3988,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '037100000',
             ),
             331 => 
@@ -3669,6 +4000,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '037100000',
             ),
             332 => 
@@ -3680,6 +4012,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '037100000',
             ),
             333 => 
@@ -3691,6 +4024,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '037100000',
             ),
             334 => 
@@ -3702,6 +4036,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '037100000',
             ),
             335 => 
@@ -3713,6 +4048,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '037100000',
             ),
             336 => 
@@ -3724,6 +4060,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '037100000',
             ),
             337 => 
@@ -3735,6 +4072,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '037100000',
             ),
             338 => 
@@ -3746,6 +4084,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '037100000',
             ),
             339 => 
@@ -3757,6 +4096,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '037100000',
             ),
             340 => 
@@ -3768,6 +4108,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '037700000',
             ),
             341 => 
@@ -3779,6 +4120,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '037700000',
             ),
             342 => 
@@ -3790,6 +4132,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '037700000',
             ),
             343 => 
@@ -3801,6 +4144,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '037700000',
             ),
             344 => 
@@ -3812,6 +4156,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '037700000',
             ),
             345 => 
@@ -3823,6 +4168,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '037700000',
             ),
             346 => 
@@ -3834,6 +4180,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '037700000',
             ),
             347 => 
@@ -3845,6 +4192,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '037700000',
             ),
             348 => 
@@ -3856,6 +4204,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             349 => 
@@ -3867,6 +4216,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             350 => 
@@ -3878,6 +4228,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             351 => 
@@ -3889,6 +4240,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             352 => 
@@ -3900,6 +4252,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             353 => 
@@ -3911,6 +4264,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             354 => 
@@ -3922,6 +4276,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             355 => 
@@ -3933,6 +4288,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             356 => 
@@ -3944,6 +4300,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             357 => 
@@ -3955,6 +4312,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             358 => 
@@ -3966,6 +4324,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             359 => 
@@ -3977,6 +4336,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             360 => 
@@ -3988,6 +4348,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             361 => 
@@ -3999,6 +4360,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             362 => 
@@ -4010,6 +4372,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             363 => 
@@ -4021,6 +4384,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             364 => 
@@ -4032,6 +4396,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             365 => 
@@ -4043,6 +4408,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             366 => 
@@ -4054,6 +4420,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             367 => 
@@ -4065,6 +4432,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             368 => 
@@ -4076,6 +4444,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             369 => 
@@ -4087,6 +4456,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             370 => 
@@ -4098,6 +4468,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             371 => 
@@ -4109,6 +4480,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             372 => 
@@ -4120,6 +4492,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             373 => 
@@ -4131,6 +4504,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             374 => 
@@ -4142,6 +4516,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             375 => 
@@ -4153,6 +4528,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             376 => 
@@ -4164,6 +4540,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             377 => 
@@ -4175,6 +4552,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             378 => 
@@ -4186,6 +4564,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             379 => 
@@ -4197,6 +4576,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             380 => 
@@ -4208,6 +4588,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             381 => 
@@ -4219,6 +4600,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '041000000',
             ),
             382 => 
@@ -4230,6 +4612,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '8th',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             383 => 
@@ -4241,6 +4624,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '7th',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             384 => 
@@ -4252,6 +4636,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             385 => 
@@ -4263,6 +4648,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             386 => 
@@ -4274,6 +4660,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             387 => 
@@ -4285,6 +4672,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             388 => 
@@ -4296,6 +4684,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '8th',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             389 => 
@@ -4307,6 +4696,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             390 => 
@@ -4318,6 +4708,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             391 => 
@@ -4329,6 +4720,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '7th',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             392 => 
@@ -4340,6 +4732,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             393 => 
@@ -4351,6 +4744,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '8th',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             394 => 
@@ -4362,6 +4756,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '8th',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             395 => 
@@ -4373,6 +4768,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '8th',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             396 => 
@@ -4384,6 +4780,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '8th',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             397 => 
@@ -4395,6 +4792,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             398 => 
@@ -4406,6 +4804,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             399 => 
@@ -4417,6 +4816,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             400 => 
@@ -4428,6 +4828,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '8th',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             401 => 
@@ -4439,6 +4840,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '7th',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             402 => 
@@ -4450,6 +4852,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '8th',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             403 => 
@@ -4461,6 +4864,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '7th',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             404 => 
@@ -4472,6 +4876,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '042100000',
             ),
             405 => 
@@ -4483,6 +4888,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             406 => 
@@ -4494,6 +4900,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             407 => 
@@ -4505,6 +4912,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             408 => 
@@ -4516,6 +4924,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             409 => 
@@ -4527,6 +4936,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             410 => 
@@ -4538,6 +4948,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             411 => 
@@ -4549,6 +4960,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             412 => 
@@ -4560,6 +4972,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             413 => 
@@ -4571,6 +4984,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             414 => 
@@ -4582,6 +4996,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             415 => 
@@ -4593,6 +5008,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             416 => 
@@ -4604,6 +5020,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             417 => 
@@ -4615,6 +5032,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             418 => 
@@ -4626,6 +5044,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             419 => 
@@ -4637,6 +5056,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             420 => 
@@ -4648,6 +5068,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             421 => 
@@ -4659,6 +5080,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             422 => 
@@ -4670,6 +5092,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             423 => 
@@ -4681,6 +5104,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             424 => 
@@ -4692,6 +5116,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             425 => 
@@ -4703,6 +5128,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             426 => 
@@ -4714,6 +5140,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             427 => 
@@ -4725,6 +5152,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             428 => 
@@ -4736,6 +5164,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             429 => 
@@ -4747,6 +5176,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             430 => 
@@ -4758,6 +5188,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             431 => 
@@ -4769,6 +5200,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             432 => 
@@ -4780,6 +5212,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             433 => 
@@ -4791,6 +5224,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             434 => 
@@ -4802,6 +5236,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '043400000',
             ),
             435 => 
@@ -4813,6 +5248,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             436 => 
@@ -4824,6 +5260,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             437 => 
@@ -4835,6 +5272,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             438 => 
@@ -4846,6 +5284,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             439 => 
@@ -4857,6 +5296,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             440 => 
@@ -4868,6 +5308,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             441 => 
@@ -4879,6 +5320,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             442 => 
@@ -4890,6 +5332,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             443 => 
@@ -4901,6 +5344,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             444 => 
@@ -4912,6 +5356,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             445 => 
@@ -4923,6 +5368,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             446 => 
@@ -4934,6 +5380,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             447 => 
@@ -4945,6 +5392,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             448 => 
@@ -4956,6 +5404,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             449 => 
@@ -4967,6 +5416,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             450 => 
@@ -4978,6 +5428,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             451 => 
@@ -4989,6 +5440,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             452 => 
@@ -5000,6 +5452,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             453 => 
@@ -5011,6 +5464,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             454 => 
@@ -5022,6 +5476,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             455 => 
@@ -5033,6 +5488,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             456 => 
@@ -5044,6 +5500,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             457 => 
@@ -5055,6 +5512,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             458 => 
@@ -5066,6 +5524,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             459 => 
@@ -5077,6 +5536,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             460 => 
@@ -5088,6 +5548,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             461 => 
@@ -5099,6 +5560,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             462 => 
@@ -5110,6 +5572,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             463 => 
@@ -5121,6 +5584,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             464 => 
@@ -5132,6 +5596,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             465 => 
@@ -5143,6 +5608,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             466 => 
@@ -5154,6 +5620,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             467 => 
@@ -5165,6 +5632,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             468 => 
@@ -5176,6 +5644,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             469 => 
@@ -5187,6 +5656,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             470 => 
@@ -5198,6 +5668,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             471 => 
@@ -5209,6 +5680,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             472 => 
@@ -5220,6 +5692,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             473 => 
@@ -5231,6 +5704,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             474 => 
@@ -5242,6 +5716,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             475 => 
@@ -5253,6 +5728,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '045600000',
             ),
             476 => 
@@ -5264,6 +5740,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '045800000',
             ),
             477 => 
@@ -5275,6 +5752,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '045800000',
             ),
             478 => 
@@ -5286,6 +5764,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '045800000',
             ),
             479 => 
@@ -5297,6 +5776,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '045800000',
             ),
             480 => 
@@ -5308,6 +5788,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '045800000',
             ),
             481 => 
@@ -5319,6 +5800,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '045800000',
             ),
             482 => 
@@ -5330,6 +5812,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '045800000',
             ),
             483 => 
@@ -5341,6 +5824,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '045800000',
             ),
             484 => 
@@ -5352,6 +5836,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '045800000',
             ),
             485 => 
@@ -5363,6 +5848,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '045800000',
             ),
             486 => 
@@ -5374,6 +5860,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '045800000',
             ),
             487 => 
@@ -5385,6 +5872,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '045800000',
             ),
             488 => 
@@ -5396,6 +5884,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '045800000',
             ),
             489 => 
@@ -5407,6 +5896,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '045800000',
             ),
             490 => 
@@ -5418,6 +5908,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '174000000',
             ),
             491 => 
@@ -5429,6 +5920,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '174000000',
             ),
             492 => 
@@ -5440,6 +5932,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '174000000',
             ),
             493 => 
@@ -5451,6 +5944,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '174000000',
             ),
             494 => 
@@ -5462,6 +5956,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '174000000',
             ),
             495 => 
@@ -5473,6 +5968,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '174000000',
             ),
             496 => 
@@ -5484,6 +5980,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175100000',
             ),
             497 => 
@@ -5495,6 +5992,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175100000',
             ),
             498 => 
@@ -5506,6 +6004,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175100000',
             ),
             499 => 
@@ -5517,6 +6016,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175100000',
             ),
         ));
@@ -5530,6 +6030,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175100000',
             ),
             1 => 
@@ -5541,6 +6042,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175100000',
             ),
             2 => 
@@ -5552,6 +6054,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175100000',
             ),
             3 => 
@@ -5563,6 +6066,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175100000',
             ),
             4 => 
@@ -5574,6 +6078,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175100000',
             ),
             5 => 
@@ -5585,6 +6090,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175100000',
             ),
             6 => 
@@ -5596,6 +6102,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175100000',
             ),
             7 => 
@@ -5607,6 +6114,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175200000',
             ),
             8 => 
@@ -5618,6 +6126,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '175200000',
             ),
             9 => 
@@ -5629,6 +6138,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '175200000',
             ),
             10 => 
@@ -5640,6 +6150,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '175200000',
             ),
             11 => 
@@ -5651,6 +6162,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175200000',
             ),
             12 => 
@@ -5662,6 +6174,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '175200000',
             ),
             13 => 
@@ -5673,6 +6186,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '175200000',
             ),
             14 => 
@@ -5684,6 +6198,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175200000',
             ),
             15 => 
@@ -5695,6 +6210,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '175200000',
             ),
             16 => 
@@ -5706,6 +6222,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175200000',
             ),
             17 => 
@@ -5717,6 +6234,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175200000',
             ),
             18 => 
@@ -5728,6 +6246,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '175200000',
             ),
             19 => 
@@ -5739,6 +6258,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175200000',
             ),
             20 => 
@@ -5750,6 +6270,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175200000',
             ),
             21 => 
@@ -5761,6 +6282,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175200000',
             ),
             22 => 
@@ -5772,6 +6294,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             23 => 
@@ -5783,6 +6306,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             24 => 
@@ -5794,6 +6318,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             25 => 
@@ -5805,6 +6330,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             26 => 
@@ -5816,6 +6342,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             27 => 
@@ -5827,6 +6354,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             28 => 
@@ -5838,6 +6366,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             29 => 
@@ -5849,6 +6378,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             30 => 
@@ -5860,6 +6390,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             31 => 
@@ -5871,6 +6402,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             32 => 
@@ -5882,6 +6414,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             33 => 
@@ -5893,6 +6426,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             34 => 
@@ -5904,6 +6438,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             35 => 
@@ -5915,6 +6450,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             36 => 
@@ -5926,6 +6462,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             37 => 
@@ -5937,6 +6474,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             38 => 
@@ -5948,6 +6486,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             39 => 
@@ -5959,6 +6498,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             40 => 
@@ -5970,6 +6510,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             41 => 
@@ -5981,6 +6522,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             42 => 
@@ -5992,6 +6534,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             43 => 
@@ -6003,6 +6546,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             44 => 
@@ -6014,6 +6558,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             45 => 
@@ -6025,6 +6570,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '175300000',
             ),
             46 => 
@@ -6036,6 +6582,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175900000',
             ),
             47 => 
@@ -6047,6 +6594,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175900000',
             ),
             48 => 
@@ -6058,6 +6606,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175900000',
             ),
             49 => 
@@ -6069,6 +6618,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175900000',
             ),
             50 => 
@@ -6080,6 +6630,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175900000',
             ),
             51 => 
@@ -6091,6 +6642,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175900000',
             ),
             52 => 
@@ -6102,6 +6654,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175900000',
             ),
             53 => 
@@ -6113,6 +6666,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175900000',
             ),
             54 => 
@@ -6124,6 +6678,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175900000',
             ),
             55 => 
@@ -6135,6 +6690,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175900000',
             ),
             56 => 
@@ -6146,6 +6702,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175900000',
             ),
             57 => 
@@ -6157,6 +6714,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175900000',
             ),
             58 => 
@@ -6168,6 +6726,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175900000',
             ),
             59 => 
@@ -6179,6 +6738,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175900000',
             ),
             60 => 
@@ -6190,6 +6750,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175900000',
             ),
             61 => 
@@ -6201,6 +6762,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175900000',
             ),
             62 => 
@@ -6212,6 +6774,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '175900000',
             ),
             63 => 
@@ -6223,6 +6786,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '050500000',
             ),
             64 => 
@@ -6234,6 +6798,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '050500000',
             ),
             65 => 
@@ -6245,6 +6810,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '050500000',
             ),
             66 => 
@@ -6256,6 +6822,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '050500000',
             ),
             67 => 
@@ -6267,6 +6834,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '050500000',
             ),
             68 => 
@@ -6278,6 +6846,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '050500000',
             ),
             69 => 
@@ -6289,6 +6858,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '050500000',
             ),
             70 => 
@@ -6300,6 +6870,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '050500000',
             ),
             71 => 
@@ -6311,6 +6882,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '050500000',
             ),
             72 => 
@@ -6322,6 +6894,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '050500000',
             ),
             73 => 
@@ -6333,6 +6906,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '050500000',
             ),
             74 => 
@@ -6344,6 +6918,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '050500000',
             ),
             75 => 
@@ -6355,6 +6930,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '050500000',
             ),
             76 => 
@@ -6366,6 +6942,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '050500000',
             ),
             77 => 
@@ -6377,6 +6954,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '050500000',
             ),
             78 => 
@@ -6388,6 +6966,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '050500000',
             ),
             79 => 
@@ -6399,6 +6978,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '050500000',
             ),
             80 => 
@@ -6410,6 +6990,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '050500000',
             ),
             81 => 
@@ -6421,6 +7002,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '051600000',
             ),
             82 => 
@@ -6432,6 +7014,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '051600000',
             ),
             83 => 
@@ -6443,6 +7026,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '051600000',
             ),
             84 => 
@@ -6454,6 +7038,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '051600000',
             ),
             85 => 
@@ -6465,6 +7050,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '051600000',
             ),
             86 => 
@@ -6476,6 +7062,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '051600000',
             ),
             87 => 
@@ -6487,6 +7074,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '051600000',
             ),
             88 => 
@@ -6498,6 +7086,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '051600000',
             ),
             89 => 
@@ -6509,6 +7098,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '051600000',
             ),
             90 => 
@@ -6520,6 +7110,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '051600000',
             ),
             91 => 
@@ -6531,6 +7122,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '051600000',
             ),
             92 => 
@@ -6542,6 +7134,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '051600000',
             ),
             93 => 
@@ -6553,6 +7146,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             94 => 
@@ -6564,6 +7158,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             95 => 
@@ -6575,6 +7170,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             96 => 
@@ -6586,6 +7182,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             97 => 
@@ -6597,6 +7194,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             98 => 
@@ -6608,6 +7206,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             99 => 
@@ -6619,6 +7218,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             100 => 
@@ -6630,6 +7230,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             101 => 
@@ -6641,6 +7242,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             102 => 
@@ -6652,6 +7254,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             103 => 
@@ -6663,6 +7266,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             104 => 
@@ -6674,6 +7278,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             105 => 
@@ -6685,6 +7290,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             106 => 
@@ -6696,6 +7302,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             107 => 
@@ -6707,6 +7314,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             108 => 
@@ -6718,6 +7326,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             109 => 
@@ -6729,6 +7338,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             110 => 
@@ -6740,6 +7350,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             111 => 
@@ -6751,6 +7362,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             112 => 
@@ -6762,6 +7374,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             113 => 
@@ -6773,6 +7386,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             114 => 
@@ -6784,6 +7398,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             115 => 
@@ -6795,6 +7410,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             116 => 
@@ -6806,6 +7422,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             117 => 
@@ -6817,6 +7434,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             118 => 
@@ -6828,6 +7446,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             119 => 
@@ -6839,6 +7458,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             120 => 
@@ -6850,6 +7470,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             121 => 
@@ -6861,6 +7482,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             122 => 
@@ -6872,6 +7494,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             123 => 
@@ -6883,6 +7506,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             124 => 
@@ -6894,6 +7518,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             125 => 
@@ -6905,6 +7530,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             126 => 
@@ -6916,6 +7542,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             127 => 
@@ -6927,6 +7554,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             128 => 
@@ -6938,6 +7566,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             129 => 
@@ -6949,6 +7578,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '051700000',
             ),
             130 => 
@@ -6960,6 +7590,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '052000000',
             ),
             131 => 
@@ -6971,6 +7602,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '052000000',
             ),
             132 => 
@@ -6982,6 +7614,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '052000000',
             ),
             133 => 
@@ -6993,6 +7626,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '052000000',
             ),
             134 => 
@@ -7004,6 +7638,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '052000000',
             ),
             135 => 
@@ -7015,6 +7650,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '052000000',
             ),
             136 => 
@@ -7026,6 +7662,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '052000000',
             ),
             137 => 
@@ -7037,6 +7674,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '052000000',
             ),
             138 => 
@@ -7048,6 +7686,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '052000000',
             ),
             139 => 
@@ -7059,6 +7698,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '052000000',
             ),
             140 => 
@@ -7070,6 +7710,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '052000000',
             ),
             141 => 
@@ -7081,6 +7722,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             142 => 
@@ -7092,6 +7734,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             143 => 
@@ -7103,6 +7746,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             144 => 
@@ -7114,6 +7758,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             145 => 
@@ -7125,6 +7770,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             146 => 
@@ -7136,6 +7782,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             147 => 
@@ -7147,6 +7794,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             148 => 
@@ -7158,6 +7806,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             149 => 
@@ -7169,6 +7818,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             150 => 
@@ -7180,6 +7830,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             151 => 
@@ -7191,6 +7842,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             152 => 
@@ -7202,6 +7854,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             153 => 
@@ -7213,6 +7866,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             154 => 
@@ -7224,6 +7878,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             155 => 
@@ -7235,6 +7890,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             156 => 
@@ -7246,6 +7902,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             157 => 
@@ -7257,6 +7914,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             158 => 
@@ -7268,6 +7926,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             159 => 
@@ -7279,6 +7938,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             160 => 
@@ -7290,6 +7950,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             161 => 
@@ -7301,6 +7962,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '054100000',
             ),
             162 => 
@@ -7312,6 +7974,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '056200000',
             ),
             163 => 
@@ -7323,6 +7986,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '056200000',
             ),
             164 => 
@@ -7334,6 +7998,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '056200000',
             ),
             165 => 
@@ -7345,6 +8010,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '056200000',
             ),
             166 => 
@@ -7356,6 +8022,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '056200000',
             ),
             167 => 
@@ -7367,6 +8034,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '056200000',
             ),
             168 => 
@@ -7378,6 +8046,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '056200000',
             ),
             169 => 
@@ -7389,6 +8058,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '056200000',
             ),
             170 => 
@@ -7400,6 +8070,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '056200000',
             ),
             171 => 
@@ -7411,6 +8082,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '056200000',
             ),
             172 => 
@@ -7422,6 +8094,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '056200000',
             ),
             173 => 
@@ -7433,6 +8106,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '056200000',
             ),
             174 => 
@@ -7444,6 +8118,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '056200000',
             ),
             175 => 
@@ -7455,6 +8130,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '056200000',
             ),
             176 => 
@@ -7466,6 +8142,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '056200000',
             ),
             177 => 
@@ -7477,6 +8154,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '060400000',
             ),
             178 => 
@@ -7488,6 +8166,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '060400000',
             ),
             179 => 
@@ -7499,6 +8178,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '060400000',
             ),
             180 => 
@@ -7510,6 +8190,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '060400000',
             ),
             181 => 
@@ -7521,6 +8202,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '060400000',
             ),
             182 => 
@@ -7532,6 +8214,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '060400000',
             ),
             183 => 
@@ -7543,6 +8226,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '060400000',
             ),
             184 => 
@@ -7554,6 +8238,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '060400000',
             ),
             185 => 
@@ -7565,6 +8250,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '060400000',
             ),
             186 => 
@@ -7576,6 +8262,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '060400000',
             ),
             187 => 
@@ -7587,6 +8274,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '060400000',
             ),
             188 => 
@@ -7598,6 +8286,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '060400000',
             ),
             189 => 
@@ -7609,6 +8298,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '060400000',
             ),
             190 => 
@@ -7620,6 +8310,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '060400000',
             ),
             191 => 
@@ -7631,6 +8322,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '060400000',
             ),
             192 => 
@@ -7642,6 +8334,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '060400000',
             ),
             193 => 
@@ -7653,6 +8346,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '060400000',
             ),
             194 => 
@@ -7664,6 +8358,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '060600000',
             ),
             195 => 
@@ -7675,6 +8370,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '060600000',
             ),
             196 => 
@@ -7686,6 +8382,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '060600000',
             ),
             197 => 
@@ -7697,6 +8394,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '060600000',
             ),
             198 => 
@@ -7708,6 +8406,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '060600000',
             ),
             199 => 
@@ -7719,6 +8418,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '060600000',
             ),
             200 => 
@@ -7730,6 +8430,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '060600000',
             ),
             201 => 
@@ -7741,6 +8442,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '060600000',
             ),
             202 => 
@@ -7752,6 +8454,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '060600000',
             ),
             203 => 
@@ -7763,6 +8466,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '060600000',
             ),
             204 => 
@@ -7774,6 +8478,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => '5712',
                 'province_code' => '060600000',
             ),
             205 => 
@@ -7785,6 +8490,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '060600000',
             ),
             206 => 
@@ -7796,6 +8502,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '060600000',
             ),
             207 => 
@@ -7807,6 +8514,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '060600000',
             ),
             208 => 
@@ -7818,6 +8526,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '060600000',
             ),
             209 => 
@@ -7829,6 +8538,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '060600000',
             ),
             210 => 
@@ -7840,6 +8550,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '060600000',
             ),
             211 => 
@@ -7851,6 +8562,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '060600000',
             ),
             212 => 
@@ -7862,6 +8574,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '061900000',
             ),
             213 => 
@@ -7873,6 +8586,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '061900000',
             ),
             214 => 
@@ -7884,6 +8598,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '061900000',
             ),
             215 => 
@@ -7895,6 +8610,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '061900000',
             ),
             216 => 
@@ -7906,6 +8622,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '061900000',
             ),
             217 => 
@@ -7917,6 +8634,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '061900000',
             ),
             218 => 
@@ -7928,6 +8646,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '061900000',
             ),
             219 => 
@@ -7939,6 +8658,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '061900000',
             ),
             220 => 
@@ -7950,6 +8670,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '061900000',
             ),
             221 => 
@@ -7961,6 +8682,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '061900000',
             ),
             222 => 
@@ -7972,6 +8694,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '061900000',
             ),
             223 => 
@@ -7983,6 +8706,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '061900000',
             ),
             224 => 
@@ -7994,6 +8718,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '061900000',
             ),
             225 => 
@@ -8005,6 +8730,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '061900000',
             ),
             226 => 
@@ -8016,6 +8742,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '061900000',
             ),
             227 => 
@@ -8027,6 +8754,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '061900000',
             ),
             228 => 
@@ -8038,6 +8766,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '061900000',
             ),
             229 => 
@@ -8049,6 +8778,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             230 => 
@@ -8060,6 +8790,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             231 => 
@@ -8071,6 +8802,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             232 => 
@@ -8082,6 +8814,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             233 => 
@@ -8093,6 +8826,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             234 => 
@@ -8104,6 +8838,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             235 => 
@@ -8115,6 +8850,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             236 => 
@@ -8126,6 +8862,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             237 => 
@@ -8137,6 +8874,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             238 => 
@@ -8148,6 +8886,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             239 => 
@@ -8159,6 +8898,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => '5031',
                 'province_code' => '063000000',
             ),
             240 => 
@@ -8170,6 +8910,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             241 => 
@@ -8181,6 +8922,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             242 => 
@@ -8192,6 +8934,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             243 => 
@@ -8203,6 +8946,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             244 => 
@@ -8214,6 +8958,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             245 => 
@@ -8225,6 +8970,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             246 => 
@@ -8236,6 +8982,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             247 => 
@@ -8247,6 +8994,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             248 => 
@@ -8258,6 +9006,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             249 => 
@@ -8269,6 +9018,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             250 => 
@@ -8280,6 +9030,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             251 => 
@@ -8291,6 +9042,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             252 => 
@@ -8302,6 +9054,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             253 => 
@@ -8313,6 +9066,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             254 => 
@@ -8324,6 +9078,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             255 => 
@@ -8335,6 +9090,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             256 => 
@@ -8346,6 +9102,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             257 => 
@@ -8357,6 +9114,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             258 => 
@@ -8368,6 +9126,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             259 => 
@@ -8379,6 +9138,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             260 => 
@@ -8390,6 +9150,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             261 => 
@@ -8401,6 +9162,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             262 => 
@@ -8412,6 +9174,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             263 => 
@@ -8423,6 +9186,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             264 => 
@@ -8434,6 +9198,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             265 => 
@@ -8445,6 +9210,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             266 => 
@@ -8456,6 +9222,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             267 => 
@@ -8467,6 +9234,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             268 => 
@@ -8478,6 +9246,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             269 => 
@@ -8489,6 +9258,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             270 => 
@@ -8500,6 +9270,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             271 => 
@@ -8511,6 +9282,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             272 => 
@@ -8522,6 +9294,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '063000000',
             ),
             273 => 
@@ -8533,6 +9306,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             274 => 
@@ -8544,6 +9318,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             275 => 
@@ -8555,6 +9330,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             276 => 
@@ -8566,6 +9342,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             277 => 
@@ -8577,6 +9354,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             278 => 
@@ -8588,6 +9366,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             279 => 
@@ -8599,6 +9378,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             280 => 
@@ -8610,6 +9390,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             281 => 
@@ -8621,6 +9402,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             282 => 
@@ -8632,6 +9414,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             283 => 
@@ -8643,6 +9426,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             284 => 
@@ -8654,6 +9438,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             285 => 
@@ -8665,6 +9450,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             286 => 
@@ -8676,6 +9462,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             287 => 
@@ -8687,6 +9474,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             288 => 
@@ -8698,6 +9486,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             289 => 
@@ -8709,6 +9498,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             290 => 
@@ -8720,6 +9510,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             291 => 
@@ -8731,6 +9522,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             292 => 
@@ -8742,6 +9534,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             293 => 
@@ -8753,6 +9546,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             294 => 
@@ -8764,6 +9558,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             295 => 
@@ -8775,6 +9570,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             296 => 
@@ -8786,6 +9582,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             297 => 
@@ -8797,6 +9594,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             298 => 
@@ -8808,6 +9606,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             299 => 
@@ -8819,6 +9618,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             300 => 
@@ -8830,6 +9630,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             301 => 
@@ -8841,6 +9642,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             302 => 
@@ -8852,6 +9654,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             303 => 
@@ -8863,6 +9666,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             304 => 
@@ -8874,6 +9678,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '064500000',
             ),
             305 => 
@@ -8885,6 +9690,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '067900000',
             ),
             306 => 
@@ -8896,6 +9702,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '067900000',
             ),
             307 => 
@@ -8907,6 +9714,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '067900000',
             ),
             308 => 
@@ -8918,6 +9726,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '067900000',
             ),
             309 => 
@@ -8929,6 +9738,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '067900000',
             ),
             310 => 
@@ -8940,6 +9750,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             311 => 
@@ -8951,6 +9762,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             312 => 
@@ -8962,6 +9774,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             313 => 
@@ -8973,6 +9786,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             314 => 
@@ -8984,6 +9798,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             315 => 
@@ -8995,6 +9810,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             316 => 
@@ -9006,6 +9822,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             317 => 
@@ -9017,6 +9834,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             318 => 
@@ -9028,6 +9846,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             319 => 
@@ -9039,6 +9858,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             320 => 
@@ -9050,6 +9870,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             321 => 
@@ -9061,6 +9882,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             322 => 
@@ -9072,6 +9894,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             323 => 
@@ -9083,6 +9906,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             324 => 
@@ -9094,6 +9918,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             325 => 
@@ -9105,6 +9930,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             326 => 
@@ -9116,6 +9942,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             327 => 
@@ -9127,6 +9954,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             328 => 
@@ -9138,6 +9966,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             329 => 
@@ -9149,6 +9978,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             330 => 
@@ -9160,6 +9990,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             331 => 
@@ -9171,6 +10002,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             332 => 
@@ -9182,6 +10014,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             333 => 
@@ -9193,6 +10026,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             334 => 
@@ -9204,6 +10038,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             335 => 
@@ -9215,6 +10050,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             336 => 
@@ -9226,6 +10062,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             337 => 
@@ -9237,6 +10074,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             338 => 
@@ -9248,6 +10086,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             339 => 
@@ -9259,6 +10098,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             340 => 
@@ -9270,6 +10110,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             341 => 
@@ -9281,6 +10122,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             342 => 
@@ -9292,6 +10134,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             343 => 
@@ -9303,6 +10146,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             344 => 
@@ -9314,6 +10158,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             345 => 
@@ -9325,6 +10170,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             346 => 
@@ -9336,6 +10182,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             347 => 
@@ -9347,6 +10194,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             348 => 
@@ -9358,6 +10206,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             349 => 
@@ -9369,6 +10218,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             350 => 
@@ -9380,6 +10230,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             351 => 
@@ -9391,6 +10242,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             352 => 
@@ -9402,6 +10254,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             353 => 
@@ -9413,6 +10266,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             354 => 
@@ -9424,6 +10278,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             355 => 
@@ -9435,6 +10290,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             356 => 
@@ -9446,6 +10302,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             357 => 
@@ -9457,6 +10314,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '071200000',
             ),
             358 => 
@@ -9468,6 +10326,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '7th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             359 => 
@@ -9479,6 +10338,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             360 => 
@@ -9490,6 +10350,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '7th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             361 => 
@@ -9501,6 +10362,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             362 => 
@@ -9512,6 +10374,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             363 => 
@@ -9523,6 +10386,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             364 => 
@@ -9534,6 +10398,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '7th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             365 => 
@@ -9545,6 +10410,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             366 => 
@@ -9556,6 +10422,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             367 => 
@@ -9567,6 +10434,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             368 => 
@@ -9578,6 +10446,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             369 => 
@@ -9589,6 +10458,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             370 => 
@@ -9600,6 +10470,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             371 => 
@@ -9611,6 +10482,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             372 => 
@@ -9622,6 +10494,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             373 => 
@@ -9633,6 +10506,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             374 => 
@@ -9644,6 +10518,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '8th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             375 => 
@@ -9655,6 +10530,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             376 => 
@@ -9666,6 +10542,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             377 => 
@@ -9677,6 +10554,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             378 => 
@@ -9688,6 +10566,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             379 => 
@@ -9699,6 +10578,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             380 => 
@@ -9710,6 +10590,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             381 => 
@@ -9721,6 +10602,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '7th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             382 => 
@@ -9732,6 +10614,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '7th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             383 => 
@@ -9743,6 +10626,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '10th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             384 => 
@@ -9754,6 +10638,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             385 => 
@@ -9765,6 +10650,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             386 => 
@@ -9776,6 +10662,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '7th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             387 => 
@@ -9787,6 +10674,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '6th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             388 => 
@@ -9798,6 +10686,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             389 => 
@@ -9809,6 +10698,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             390 => 
@@ -9820,6 +10710,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '7th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             391 => 
@@ -9831,6 +10722,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             392 => 
@@ -9842,6 +10734,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             393 => 
@@ -9853,6 +10746,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             394 => 
@@ -9864,6 +10758,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             395 => 
@@ -9875,6 +10770,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             396 => 
@@ -9886,6 +10782,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '7th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             397 => 
@@ -9897,6 +10794,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             398 => 
@@ -9908,6 +10806,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             399 => 
@@ -9919,6 +10818,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             400 => 
@@ -9930,6 +10830,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             401 => 
@@ -9941,6 +10842,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             402 => 
@@ -9952,6 +10854,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             403 => 
@@ -9963,6 +10866,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             404 => 
@@ -9974,6 +10878,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             405 => 
@@ -9985,6 +10890,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             406 => 
@@ -9996,6 +10902,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             407 => 
@@ -10007,6 +10914,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             408 => 
@@ -10018,6 +10926,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             409 => 
@@ -10029,6 +10938,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             410 => 
@@ -10040,6 +10950,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '072200000',
             ),
             411 => 
@@ -10051,6 +10962,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             412 => 
@@ -10062,6 +10974,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             413 => 
@@ -10073,6 +10986,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             414 => 
@@ -10084,6 +10998,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             415 => 
@@ -10095,6 +11010,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             416 => 
@@ -10106,6 +11022,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             417 => 
@@ -10117,6 +11034,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             418 => 
@@ -10128,6 +11046,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             419 => 
@@ -10139,6 +11058,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             420 => 
@@ -10150,6 +11070,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             421 => 
@@ -10161,6 +11082,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             422 => 
@@ -10172,6 +11094,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             423 => 
@@ -10183,6 +11106,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             424 => 
@@ -10194,6 +11118,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             425 => 
@@ -10205,6 +11130,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             426 => 
@@ -10216,6 +11142,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             427 => 
@@ -10227,6 +11154,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             428 => 
@@ -10238,6 +11166,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             429 => 
@@ -10249,6 +11178,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => '6219',
                 'province_code' => '074600000',
             ),
             430 => 
@@ -10260,6 +11190,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             431 => 
@@ -10271,6 +11202,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             432 => 
@@ -10282,6 +11214,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             433 => 
@@ -10293,6 +11226,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             434 => 
@@ -10304,6 +11238,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             435 => 
@@ -10315,6 +11250,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '074600000',
             ),
             436 => 
@@ -10326,6 +11262,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '076100000',
             ),
             437 => 
@@ -10337,6 +11274,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '076100000',
             ),
             438 => 
@@ -10348,6 +11286,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '076100000',
             ),
             439 => 
@@ -10359,6 +11298,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '076100000',
             ),
             440 => 
@@ -10370,6 +11310,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '076100000',
             ),
             441 => 
@@ -10381,6 +11322,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '076100000',
             ),
             442 => 
@@ -10392,6 +11334,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             443 => 
@@ -10403,6 +11346,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             444 => 
@@ -10414,6 +11358,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             445 => 
@@ -10425,6 +11370,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             446 => 
@@ -10436,6 +11382,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             447 => 
@@ -10447,6 +11394,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             448 => 
@@ -10458,6 +11406,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             449 => 
@@ -10469,6 +11418,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             450 => 
@@ -10480,6 +11430,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             451 => 
@@ -10491,6 +11442,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             452 => 
@@ -10502,6 +11454,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             453 => 
@@ -10513,6 +11466,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             454 => 
@@ -10524,6 +11478,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             455 => 
@@ -10535,6 +11490,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             456 => 
@@ -10546,6 +11502,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             457 => 
@@ -10557,6 +11514,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             458 => 
@@ -10568,6 +11526,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             459 => 
@@ -10579,6 +11538,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             460 => 
@@ -10590,6 +11550,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             461 => 
@@ -10601,6 +11562,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             462 => 
@@ -10612,6 +11574,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             463 => 
@@ -10623,6 +11586,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             464 => 
@@ -10634,6 +11598,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '082600000',
             ),
             465 => 
@@ -10645,6 +11610,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             466 => 
@@ -10656,6 +11622,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             467 => 
@@ -10667,6 +11634,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             468 => 
@@ -10678,6 +11646,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             469 => 
@@ -10689,6 +11658,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             470 => 
@@ -10700,6 +11670,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             471 => 
@@ -10711,6 +11682,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             472 => 
@@ -10722,6 +11694,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             473 => 
@@ -10733,6 +11706,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             474 => 
@@ -10744,6 +11718,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             475 => 
@@ -10755,6 +11730,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             476 => 
@@ -10766,6 +11742,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             477 => 
@@ -10777,6 +11754,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             478 => 
@@ -10788,6 +11766,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             479 => 
@@ -10799,6 +11778,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             480 => 
@@ -10810,6 +11790,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             481 => 
@@ -10821,6 +11802,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             482 => 
@@ -10832,6 +11814,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             483 => 
@@ -10843,6 +11826,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             484 => 
@@ -10854,6 +11838,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             485 => 
@@ -10865,6 +11850,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             486 => 
@@ -10876,6 +11862,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             487 => 
@@ -10887,6 +11874,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             488 => 
@@ -10898,6 +11886,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             489 => 
@@ -10909,6 +11898,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             490 => 
@@ -10920,6 +11910,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             491 => 
@@ -10931,6 +11922,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '5th',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             492 => 
@@ -10942,6 +11934,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             493 => 
@@ -10953,6 +11946,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             494 => 
@@ -10964,6 +11958,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             495 => 
@@ -10975,6 +11970,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             496 => 
@@ -10986,6 +11982,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             497 => 
@@ -10997,6 +11994,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             498 => 
@@ -11008,6 +12006,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             499 => 
@@ -11019,6 +12018,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
         ));
@@ -11032,6 +12032,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             1 => 
@@ -11043,6 +12044,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             2 => 
@@ -11054,6 +12056,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             3 => 
@@ -11065,6 +12068,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             4 => 
@@ -11076,6 +12080,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             5 => 
@@ -11087,6 +12092,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             6 => 
@@ -11098,6 +12104,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             7 => 
@@ -11109,6 +12116,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '083700000',
             ),
             8 => 
@@ -11120,6 +12128,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             9 => 
@@ -11131,6 +12140,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             10 => 
@@ -11142,6 +12152,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             11 => 
@@ -11153,6 +12164,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             12 => 
@@ -11164,6 +12176,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             13 => 
@@ -11175,6 +12188,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             14 => 
@@ -11186,6 +12200,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             15 => 
@@ -11197,6 +12212,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             16 => 
@@ -11208,6 +12224,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             17 => 
@@ -11219,6 +12236,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             18 => 
@@ -11230,6 +12248,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             19 => 
@@ -11241,6 +12260,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             20 => 
@@ -11252,6 +12272,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             21 => 
@@ -11263,6 +12284,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             22 => 
@@ -11274,6 +12296,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             23 => 
@@ -11285,6 +12308,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             24 => 
@@ -11296,6 +12320,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             25 => 
@@ -11307,6 +12332,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             26 => 
@@ -11318,6 +12344,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             27 => 
@@ -11329,6 +12356,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             28 => 
@@ -11340,6 +12368,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             29 => 
@@ -11351,6 +12380,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             30 => 
@@ -11362,6 +12392,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             31 => 
@@ -11373,6 +12404,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '084800000',
             ),
             32 => 
@@ -11384,6 +12416,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             33 => 
@@ -11395,6 +12428,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             34 => 
@@ -11406,6 +12440,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             35 => 
@@ -11417,6 +12452,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             36 => 
@@ -11428,6 +12464,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             37 => 
@@ -11439,6 +12476,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             38 => 
@@ -11450,6 +12488,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             39 => 
@@ -11461,6 +12500,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             40 => 
@@ -11472,6 +12512,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             41 => 
@@ -11483,6 +12524,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             42 => 
@@ -11494,6 +12536,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             43 => 
@@ -11505,6 +12548,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             44 => 
@@ -11516,6 +12560,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             45 => 
@@ -11527,6 +12572,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             46 => 
@@ -11538,6 +12584,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             47 => 
@@ -11549,6 +12596,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             48 => 
@@ -11560,6 +12608,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             49 => 
@@ -11571,6 +12620,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             50 => 
@@ -11582,6 +12632,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             51 => 
@@ -11593,6 +12644,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             52 => 
@@ -11604,6 +12656,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             53 => 
@@ -11615,6 +12668,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             54 => 
@@ -11626,6 +12680,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             55 => 
@@ -11637,6 +12692,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             56 => 
@@ -11648,6 +12704,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             57 => 
@@ -11659,6 +12716,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '086000000',
             ),
             58 => 
@@ -11670,6 +12728,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '086400000',
             ),
             59 => 
@@ -11681,6 +12740,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '086400000',
             ),
             60 => 
@@ -11692,6 +12752,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '086400000',
             ),
             61 => 
@@ -11703,6 +12764,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '086400000',
             ),
             62 => 
@@ -11714,6 +12776,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '086400000',
             ),
             63 => 
@@ -11725,6 +12788,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '086400000',
             ),
             64 => 
@@ -11736,6 +12800,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '086400000',
             ),
             65 => 
@@ -11747,6 +12812,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '086400000',
             ),
             66 => 
@@ -11758,6 +12824,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '086400000',
             ),
             67 => 
@@ -11769,6 +12836,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '086400000',
             ),
             68 => 
@@ -11780,6 +12848,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '086400000',
             ),
             69 => 
@@ -11791,6 +12860,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '086400000',
             ),
             70 => 
@@ -11802,6 +12872,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '086400000',
             ),
             71 => 
@@ -11813,6 +12884,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '086400000',
             ),
             72 => 
@@ -11824,6 +12896,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '086400000',
             ),
             73 => 
@@ -11835,6 +12908,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '086400000',
             ),
             74 => 
@@ -11846,6 +12920,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '086400000',
             ),
             75 => 
@@ -11857,6 +12932,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '086400000',
             ),
             76 => 
@@ -11868,6 +12944,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '086400000',
             ),
             77 => 
@@ -11879,6 +12956,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '087800000',
             ),
             78 => 
@@ -11890,6 +12968,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '087800000',
             ),
             79 => 
@@ -11901,6 +12980,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '087800000',
             ),
             80 => 
@@ -11912,6 +12992,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '087800000',
             ),
             81 => 
@@ -11923,6 +13004,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '087800000',
             ),
             82 => 
@@ -11934,6 +13016,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '087800000',
             ),
             83 => 
@@ -11945,6 +13028,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '087800000',
             ),
             84 => 
@@ -11956,6 +13040,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '087800000',
             ),
             85 => 
@@ -11967,6 +13052,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7101',
                 'province_code' => '097200000',
             ),
             86 => 
@@ -11978,6 +13064,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7100',
                 'province_code' => '097200000',
             ),
             87 => 
@@ -11989,6 +13076,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7109',
                 'province_code' => '097200000',
             ),
             88 => 
@@ -12000,6 +13088,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7117',
                 'province_code' => '097200000',
             ),
             89 => 
@@ -12011,6 +13100,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => '7119',
                 'province_code' => '097200000',
             ),
             90 => 
@@ -12022,6 +13112,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => '7115',
                 'province_code' => '097200000',
             ),
             91 => 
@@ -12033,6 +13124,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7110',
                 'province_code' => '097200000',
             ),
             92 => 
@@ -12044,6 +13136,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7107',
                 'province_code' => '097200000',
             ),
             93 => 
@@ -12055,6 +13148,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7105',
                 'province_code' => '097200000',
             ),
             94 => 
@@ -12066,6 +13160,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7106',
                 'province_code' => '097200000',
             ),
             95 => 
@@ -12077,6 +13172,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7102',
                 'province_code' => '097200000',
             ),
             96 => 
@@ -12088,6 +13184,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7104',
                 'province_code' => '097200000',
             ),
             97 => 
@@ -12099,6 +13196,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => '7114',
                 'province_code' => '097200000',
             ),
             98 => 
@@ -12110,6 +13208,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7108',
                 'province_code' => '097200000',
             ),
             99 => 
@@ -12121,6 +13220,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '097200000',
             ),
             100 => 
@@ -12132,6 +13232,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => '7122',
                 'province_code' => '097200000',
             ),
             101 => 
@@ -12143,6 +13244,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7103',
                 'province_code' => '097200000',
             ),
             102 => 
@@ -12154,6 +13256,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7112',
                 'province_code' => '097200000',
             ),
             103 => 
@@ -12165,6 +13268,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => '7120',
                 'province_code' => '097200000',
             ),
             104 => 
@@ -12176,6 +13280,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '097200000',
             ),
             105 => 
@@ -12187,6 +13292,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => '7116',
                 'province_code' => '097200000',
             ),
             106 => 
@@ -12198,6 +13304,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '097200000',
             ),
             107 => 
@@ -12209,6 +13316,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => '7118',
                 'province_code' => '097200000',
             ),
             108 => 
@@ -12220,6 +13328,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => '7123',
                 'province_code' => '097200000',
             ),
             109 => 
@@ -12231,6 +13340,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '097200000',
             ),
             110 => 
@@ -12242,6 +13352,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => '7125',
                 'province_code' => '097200000',
             ),
             111 => 
@@ -12253,6 +13364,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => '7124',
                 'province_code' => '097200000',
             ),
             112 => 
@@ -12264,6 +13376,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7020',
                 'province_code' => '097300000',
             ),
             113 => 
@@ -12275,6 +13388,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7011',
                 'province_code' => '097300000',
             ),
             114 => 
@@ -12286,6 +13400,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7032',
                 'province_code' => '097300000',
             ),
             115 => 
@@ -12297,6 +13412,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7030',
                 'province_code' => '097300000',
             ),
             116 => 
@@ -12308,6 +13424,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7015',
                 'province_code' => '097300000',
             ),
             117 => 
@@ -12319,6 +13436,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7028',
                 'province_code' => '097300000',
             ),
             118 => 
@@ -12330,6 +13448,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '097300000',
             ),
             119 => 
@@ -12341,6 +13460,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7017',
                 'province_code' => '097300000',
             ),
             120 => 
@@ -12352,6 +13472,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7037',
                 'province_code' => '097300000',
             ),
             121 => 
@@ -12363,6 +13484,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7026',
                 'province_code' => '097300000',
             ),
             122 => 
@@ -12374,6 +13496,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7035',
                 'province_code' => '097300000',
             ),
             123 => 
@@ -12385,6 +13508,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '097300000',
             ),
             124 => 
@@ -12396,6 +13520,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '097300000',
             ),
             125 => 
@@ -12407,6 +13532,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7016',
                 'province_code' => '097300000',
             ),
             126 => 
@@ -12418,6 +13544,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '097300000',
             ),
             127 => 
@@ -12429,6 +13556,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7029',
                 'province_code' => '097300000',
             ),
             128 => 
@@ -12440,6 +13568,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7031',
                 'province_code' => '097300000',
             ),
             129 => 
@@ -12451,6 +13580,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7034',
                 'province_code' => '097300000',
             ),
             130 => 
@@ -12462,6 +13592,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '097300000',
             ),
             131 => 
@@ -12473,6 +13604,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7019',
                 'province_code' => '097300000',
             ),
             132 => 
@@ -12484,7 +13616,8 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 1,
                 'district' => '3rd',
-                'province_code' => '099300000',
+                'zipcode' => '7000',
+                'province_code' => '097300000',
             ),
             133 => 
             array (
@@ -12495,6 +13628,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '097300000',
             ),
             134 => 
@@ -12506,6 +13640,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '097300000',
             ),
             135 => 
@@ -12517,6 +13652,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7033',
                 'province_code' => '097300000',
             ),
             136 => 
@@ -12528,6 +13664,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '097300000',
             ),
             137 => 
@@ -12539,6 +13676,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7036',
                 'province_code' => '097300000',
             ),
             138 => 
@@ -12550,6 +13688,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '097300000',
             ),
             139 => 
@@ -12561,6 +13700,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '097300000',
             ),
             140 => 
@@ -12572,6 +13712,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7040',
                 'province_code' => '098300000',
             ),
             141 => 
@@ -12583,6 +13724,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7009',
                 'province_code' => '098300000',
             ),
             142 => 
@@ -12594,6 +13736,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7039',
                 'province_code' => '098300000',
             ),
             143 => 
@@ -12605,6 +13748,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7007',
                 'province_code' => '098300000',
             ),
             144 => 
@@ -12616,6 +13760,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7001',
                 'province_code' => '098300000',
             ),
             145 => 
@@ -12627,6 +13772,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7005',
                 'province_code' => '098300000',
             ),
             146 => 
@@ -12638,6 +13784,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7010',
                 'province_code' => '098300000',
             ),
             147 => 
@@ -12649,6 +13796,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7038',
                 'province_code' => '098300000',
             ),
             148 => 
@@ -12660,6 +13808,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7004',
                 'province_code' => '098300000',
             ),
             149 => 
@@ -12671,6 +13820,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7041',
                 'province_code' => '098300000',
             ),
             150 => 
@@ -12682,6 +13832,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7008',
                 'province_code' => '098300000',
             ),
             151 => 
@@ -12693,6 +13844,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '098300000',
             ),
             152 => 
@@ -12704,6 +13856,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7006',
                 'province_code' => '098300000',
             ),
             153 => 
@@ -12715,6 +13868,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7012',
                 'province_code' => '098300000',
             ),
             154 => 
@@ -12726,6 +13880,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7003',
                 'province_code' => '098300000',
             ),
             155 => 
@@ -12737,6 +13892,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7018',
                 'province_code' => '098300000',
             ),
             156 => 
@@ -12748,6 +13904,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '157000000',
             ),
             157 => 
@@ -12759,6 +13916,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             158 => 
@@ -12770,6 +13928,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             159 => 
@@ -12781,6 +13940,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             160 => 
@@ -12792,6 +13952,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             161 => 
@@ -12803,6 +13964,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             162 => 
@@ -12814,6 +13976,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             163 => 
@@ -12825,6 +13988,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             164 => 
@@ -12836,6 +14000,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             165 => 
@@ -12847,6 +14012,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             166 => 
@@ -12858,6 +14024,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             167 => 
@@ -12869,6 +14036,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             168 => 
@@ -12880,6 +14048,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             169 => 
@@ -12891,6 +14060,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             170 => 
@@ -12902,6 +14072,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             171 => 
@@ -12913,6 +14084,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             172 => 
@@ -12924,6 +14096,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             173 => 
@@ -12935,6 +14108,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             174 => 
@@ -12946,6 +14120,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             175 => 
@@ -12957,6 +14132,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             176 => 
@@ -12968,6 +14144,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             177 => 
@@ -12979,6 +14156,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '4th',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             178 => 
@@ -12990,6 +14168,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '101300000',
             ),
             179 => 
@@ -13001,6 +14180,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '101800000',
             ),
             180 => 
@@ -13012,6 +14192,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '101800000',
             ),
             181 => 
@@ -13023,6 +14204,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '101800000',
             ),
             182 => 
@@ -13034,6 +14216,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '101800000',
             ),
             183 => 
@@ -13045,6 +14228,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '101800000',
             ),
             184 => 
@@ -13056,6 +14240,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             185 => 
@@ -13067,6 +14252,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             186 => 
@@ -13078,6 +14264,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             187 => 
@@ -13089,6 +14276,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             188 => 
@@ -13100,6 +14288,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             189 => 
@@ -13111,6 +14300,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             190 => 
@@ -13122,6 +14312,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             191 => 
@@ -13133,6 +14324,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             192 => 
@@ -13144,6 +14336,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             193 => 
@@ -13155,6 +14348,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             194 => 
@@ -13166,6 +14360,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             195 => 
@@ -13177,6 +14372,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             196 => 
@@ -13188,6 +14384,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             197 => 
@@ -13199,6 +14396,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             198 => 
@@ -13210,6 +14408,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             199 => 
@@ -13221,6 +14420,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             200 => 
@@ -13232,6 +14432,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             201 => 
@@ -13243,6 +14444,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             202 => 
@@ -13254,6 +14456,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             203 => 
@@ -13265,6 +14468,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             204 => 
@@ -13276,6 +14480,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             205 => 
@@ -13287,6 +14492,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             206 => 
@@ -13298,6 +14504,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '103500000',
             ),
             207 => 
@@ -13309,6 +14516,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '104200000',
             ),
             208 => 
@@ -13320,6 +14528,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7211',
                 'province_code' => '104200000',
             ),
             209 => 
@@ -13331,6 +14540,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104200000',
             ),
             210 => 
@@ -13342,6 +14552,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7210',
                 'province_code' => '104200000',
             ),
             211 => 
@@ -13353,6 +14564,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104200000',
             ),
             212 => 
@@ -13364,6 +14576,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '104200000',
             ),
             213 => 
@@ -13375,6 +14588,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7204',
                 'province_code' => '104200000',
             ),
             214 => 
@@ -13386,6 +14600,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '104200000',
             ),
             215 => 
@@ -13397,6 +14612,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7207',
                 'province_code' => '104200000',
             ),
             216 => 
@@ -13408,6 +14624,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104200000',
             ),
             217 => 
@@ -13419,6 +14636,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '104200000',
             ),
             218 => 
@@ -13430,6 +14648,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7209',
                 'province_code' => '104200000',
             ),
             219 => 
@@ -13441,6 +14660,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '104200000',
             ),
             220 => 
@@ -13452,6 +14672,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104200000',
             ),
             221 => 
@@ -13463,6 +14684,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104200000',
             ),
             222 => 
@@ -13474,6 +14696,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104200000',
             ),
             223 => 
@@ -13485,6 +14708,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104200000',
             ),
             224 => 
@@ -13496,6 +14720,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             225 => 
@@ -13507,6 +14732,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             226 => 
@@ -13518,6 +14744,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             227 => 
@@ -13529,6 +14756,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             228 => 
@@ -13540,6 +14768,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             229 => 
@@ -13551,6 +14780,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             230 => 
@@ -13562,6 +14792,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             231 => 
@@ -13573,6 +14804,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             232 => 
@@ -13584,6 +14816,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             233 => 
@@ -13595,6 +14828,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             234 => 
@@ -13606,6 +14840,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             235 => 
@@ -13617,6 +14852,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             236 => 
@@ -13628,6 +14864,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             237 => 
@@ -13639,6 +14876,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             238 => 
@@ -13650,6 +14888,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             239 => 
@@ -13661,6 +14900,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             240 => 
@@ -13672,6 +14912,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             241 => 
@@ -13683,6 +14924,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             242 => 
@@ -13694,6 +14936,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             243 => 
@@ -13705,6 +14948,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             244 => 
@@ -13716,6 +14960,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             245 => 
@@ -13727,6 +14972,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             246 => 
@@ -13738,6 +14984,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             247 => 
@@ -13749,6 +14996,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             248 => 
@@ -13760,6 +15008,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             249 => 
@@ -13771,6 +15020,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '104300000',
             ),
             250 => 
@@ -13782,6 +15032,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '112300000',
             ),
             251 => 
@@ -13793,6 +15044,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '112300000',
             ),
             252 => 
@@ -13804,6 +15056,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '112300000',
             ),
             253 => 
@@ -13815,6 +15068,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '112300000',
             ),
             254 => 
@@ -13826,6 +15080,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '112300000',
             ),
             255 => 
@@ -13837,6 +15092,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '112300000',
             ),
             256 => 
@@ -13848,6 +15104,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '112300000',
             ),
             257 => 
@@ -13859,6 +15116,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '112300000',
             ),
             258 => 
@@ -13870,6 +15128,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '112300000',
             ),
             259 => 
@@ -13881,6 +15140,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '112300000',
             ),
             260 => 
@@ -13892,6 +15152,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '112300000',
             ),
             261 => 
@@ -13903,6 +15164,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '112400000',
             ),
             262 => 
@@ -13914,6 +15176,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '112400000',
             ),
             263 => 
@@ -13925,6 +15188,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '112400000',
             ),
             264 => 
@@ -13936,6 +15200,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '112400000',
             ),
             265 => 
@@ -13947,6 +15212,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '112400000',
             ),
             266 => 
@@ -13958,6 +15224,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '112400000',
             ),
             267 => 
@@ -13969,6 +15236,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '112400000',
             ),
             268 => 
@@ -13980,6 +15248,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '112400000',
             ),
             269 => 
@@ -13991,6 +15260,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '112400000',
             ),
             270 => 
@@ -14002,6 +15272,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '112400000',
             ),
             271 => 
@@ -14013,6 +15284,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '112400000',
             ),
             272 => 
@@ -14024,6 +15296,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '112500000',
             ),
             273 => 
@@ -14035,6 +15308,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '112500000',
             ),
             274 => 
@@ -14046,6 +15320,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '112500000',
             ),
             275 => 
@@ -14057,6 +15332,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '112500000',
             ),
             276 => 
@@ -14068,6 +15344,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '112500000',
             ),
             277 => 
@@ -14079,6 +15356,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '112500000',
             ),
             278 => 
@@ -14090,6 +15368,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '112500000',
             ),
             279 => 
@@ -14101,6 +15380,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '112500000',
             ),
             280 => 
@@ -14112,6 +15392,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '112500000',
             ),
             281 => 
@@ -14123,6 +15404,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '112500000',
             ),
             282 => 
@@ -14134,6 +15416,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '112500000',
             ),
             283 => 
@@ -14145,6 +15428,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '118200000',
             ),
             284 => 
@@ -14156,6 +15440,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '118200000',
             ),
             285 => 
@@ -14167,6 +15452,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '118200000',
             ),
             286 => 
@@ -14178,6 +15464,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '118200000',
             ),
             287 => 
@@ -14189,6 +15476,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '118200000',
             ),
             288 => 
@@ -14200,6 +15488,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '118200000',
             ),
             289 => 
@@ -14211,6 +15500,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '118200000',
             ),
             290 => 
@@ -14222,6 +15512,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '118200000',
             ),
             291 => 
@@ -14233,6 +15524,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '118200000',
             ),
             292 => 
@@ -14244,6 +15536,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '118200000',
             ),
             293 => 
@@ -14255,6 +15548,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '118200000',
             ),
             294 => 
@@ -14266,6 +15560,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '118600000',
             ),
             295 => 
@@ -14277,6 +15572,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '118600000',
             ),
             296 => 
@@ -14288,6 +15584,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '118600000',
             ),
             297 => 
@@ -14299,6 +15596,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '118600000',
             ),
             298 => 
@@ -14310,6 +15608,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '118600000',
             ),
             299 => 
@@ -14321,6 +15620,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '124700000',
             ),
             300 => 
@@ -14332,6 +15632,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '124700000',
             ),
             301 => 
@@ -14343,6 +15644,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '124700000',
             ),
             302 => 
@@ -14354,6 +15656,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '124700000',
             ),
             303 => 
@@ -14365,6 +15668,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '124700000',
             ),
             304 => 
@@ -14376,6 +15680,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '124700000',
             ),
             305 => 
@@ -14387,6 +15692,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '124700000',
             ),
             306 => 
@@ -14398,6 +15704,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '124700000',
             ),
             307 => 
@@ -14409,6 +15716,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '124700000',
             ),
             308 => 
@@ -14420,6 +15728,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '124700000',
             ),
             309 => 
@@ -14431,6 +15740,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '124700000',
             ),
             310 => 
@@ -14442,6 +15752,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '124700000',
             ),
             311 => 
@@ -14453,6 +15764,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '124700000',
             ),
             312 => 
@@ -14464,6 +15776,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '124700000',
             ),
             313 => 
@@ -14475,6 +15788,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '124700000',
             ),
             314 => 
@@ -14486,6 +15800,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '3rd',
+                'zipcode' => NULL,
                 'province_code' => '124700000',
             ),
             315 => 
@@ -14497,6 +15812,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '124700000',
             ),
             316 => 
@@ -14508,6 +15824,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '124700000',
             ),
             317 => 
@@ -14519,6 +15836,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '126300000',
             ),
             318 => 
@@ -14530,6 +15848,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '126300000',
             ),
             319 => 
@@ -14541,6 +15860,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '126300000',
             ),
             320 => 
@@ -14552,6 +15872,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '126300000',
             ),
             321 => 
@@ -14563,6 +15884,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '126300000',
             ),
             322 => 
@@ -14574,6 +15896,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '126300000',
             ),
             323 => 
@@ -14585,6 +15908,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '126300000',
             ),
             324 => 
@@ -14596,6 +15920,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '126300000',
             ),
             325 => 
@@ -14607,6 +15932,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '126300000',
             ),
             326 => 
@@ -14618,6 +15944,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '126300000',
             ),
             327 => 
@@ -14629,6 +15956,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '126300000',
             ),
             328 => 
@@ -14640,6 +15968,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '126300000',
             ),
             329 => 
@@ -14651,6 +15980,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '126500000',
             ),
             330 => 
@@ -14662,6 +15992,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '126500000',
             ),
             331 => 
@@ -14673,6 +16004,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '126500000',
             ),
             332 => 
@@ -14684,6 +16016,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '126500000',
             ),
             333 => 
@@ -14695,6 +16028,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '126500000',
             ),
             334 => 
@@ -14706,6 +16040,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '126500000',
             ),
             335 => 
@@ -14717,6 +16052,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '126500000',
             ),
             336 => 
@@ -14728,6 +16064,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '126500000',
             ),
             337 => 
@@ -14739,6 +16076,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '126500000',
             ),
             338 => 
@@ -14750,6 +16088,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '126500000',
             ),
             339 => 
@@ -14761,6 +16100,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '126500000',
             ),
             340 => 
@@ -14772,6 +16112,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '126500000',
             ),
             341 => 
@@ -14783,6 +16124,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '128000000',
             ),
             342 => 
@@ -14794,6 +16136,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '128000000',
             ),
             343 => 
@@ -14805,6 +16148,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '128000000',
             ),
             344 => 
@@ -14816,6 +16160,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '128000000',
             ),
             345 => 
@@ -14827,6 +16172,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '128000000',
             ),
             346 => 
@@ -14838,6 +16184,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '128000000',
             ),
             347 => 
@@ -14849,6 +16196,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '128000000',
             ),
             348 => 
@@ -14860,6 +16208,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             349 => 
@@ -14871,6 +16220,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '170000000',
             ),
             350 => 
@@ -14882,6 +16232,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '170000000',
             ),
             351 => 
@@ -14893,6 +16244,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '170000000',
             ),
             352 => 
@@ -14904,6 +16256,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '170000000',
             ),
             353 => 
@@ -14915,6 +16268,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '170000000',
             ),
             354 => 
@@ -14926,6 +16280,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '170000000',
             ),
             355 => 
@@ -14937,6 +16292,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '170000000',
             ),
             356 => 
@@ -14948,6 +16304,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '170000000',
             ),
             357 => 
@@ -14959,6 +16316,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '170000000',
             ),
             358 => 
@@ -14970,6 +16328,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '170000000',
             ),
             359 => 
@@ -14981,6 +16340,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '170000000',
             ),
             360 => 
@@ -14992,6 +16352,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '170000000',
             ),
             361 => 
@@ -15003,6 +16364,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '170000000',
             ),
             362 => 
@@ -15014,6 +16376,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '170000000',
             ),
             363 => 
@@ -15025,6 +16388,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '170000000',
             ),
             364 => 
@@ -15036,6 +16400,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '170000000',
             ),
             365 => 
@@ -15047,6 +16412,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '170000000',
             ),
             366 => 
@@ -15058,6 +16424,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             367 => 
@@ -15069,6 +16436,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             368 => 
@@ -15080,6 +16448,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             369 => 
@@ -15091,6 +16460,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             370 => 
@@ -15102,6 +16472,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             371 => 
@@ -15113,6 +16484,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             372 => 
@@ -15124,6 +16496,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             373 => 
@@ -15135,6 +16508,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             374 => 
@@ -15146,6 +16520,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             375 => 
@@ -15157,6 +16532,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             376 => 
@@ -15168,6 +16544,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             377 => 
@@ -15179,6 +16556,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             378 => 
@@ -15190,6 +16568,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             379 => 
@@ -15201,6 +16580,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             380 => 
@@ -15212,6 +16592,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             381 => 
@@ -15223,6 +16604,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             382 => 
@@ -15234,6 +16616,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             383 => 
@@ -15245,6 +16628,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             384 => 
@@ -15256,6 +16640,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             385 => 
@@ -15267,6 +16652,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             386 => 
@@ -15278,6 +16664,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             387 => 
@@ -15289,6 +16676,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             388 => 
@@ -15300,6 +16688,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             389 => 
@@ -15311,6 +16700,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             390 => 
@@ -15322,6 +16712,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             391 => 
@@ -15333,6 +16724,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             392 => 
@@ -15344,6 +16736,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '140100000',
             ),
             393 => 
@@ -15355,6 +16748,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '141100000',
             ),
             394 => 
@@ -15366,6 +16760,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '141100000',
             ),
             395 => 
@@ -15377,6 +16772,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '141100000',
             ),
             396 => 
@@ -15388,6 +16784,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '141100000',
             ),
             397 => 
@@ -15399,6 +16796,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '141100000',
             ),
             398 => 
@@ -15410,6 +16808,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '141100000',
             ),
             399 => 
@@ -15421,6 +16820,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '141100000',
             ),
             400 => 
@@ -15432,6 +16832,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '141100000',
             ),
             401 => 
@@ -15443,6 +16844,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '141100000',
             ),
             402 => 
@@ -15454,6 +16856,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '141100000',
             ),
             403 => 
@@ -15465,6 +16868,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '141100000',
             ),
             404 => 
@@ -15476,6 +16880,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '141100000',
             ),
             405 => 
@@ -15487,6 +16892,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '141100000',
             ),
             406 => 
@@ -15498,6 +16904,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '141100000',
             ),
             407 => 
@@ -15509,6 +16916,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '142700000',
             ),
             408 => 
@@ -15520,6 +16928,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '142700000',
             ),
             409 => 
@@ -15531,6 +16940,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '142700000',
             ),
             410 => 
@@ -15542,6 +16952,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '142700000',
             ),
             411 => 
@@ -15553,6 +16964,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '142700000',
             ),
             412 => 
@@ -15564,6 +16976,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '142700000',
             ),
             413 => 
@@ -15575,6 +16988,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '142700000',
             ),
             414 => 
@@ -15586,6 +17000,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '142700000',
             ),
             415 => 
@@ -15597,6 +17012,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '142700000',
             ),
             416 => 
@@ -15608,6 +17024,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '142700000',
             ),
             417 => 
@@ -15619,6 +17036,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '142700000',
             ),
             418 => 
@@ -15630,6 +17048,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '143200000',
             ),
             419 => 
@@ -15641,6 +17060,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '143200000',
             ),
             420 => 
@@ -15652,6 +17072,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '143200000',
             ),
             421 => 
@@ -15663,6 +17084,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '143200000',
             ),
             422 => 
@@ -15674,6 +17096,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '143200000',
             ),
             423 => 
@@ -15685,6 +17108,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '143200000',
             ),
             424 => 
@@ -15696,6 +17120,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '143200000',
             ),
             425 => 
@@ -15707,6 +17132,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '143200000',
             ),
             426 => 
@@ -15718,6 +17144,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '144400000',
             ),
             427 => 
@@ -15729,6 +17156,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '144400000',
             ),
             428 => 
@@ -15740,6 +17168,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '144400000',
             ),
             429 => 
@@ -15751,6 +17180,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '144400000',
             ),
             430 => 
@@ -15762,6 +17192,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '144400000',
             ),
             431 => 
@@ -15773,6 +17204,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '144400000',
             ),
             432 => 
@@ -15784,6 +17216,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '144400000',
             ),
             433 => 
@@ -15795,6 +17228,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '144400000',
             ),
             434 => 
@@ -15806,6 +17240,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '144400000',
             ),
             435 => 
@@ -15817,6 +17252,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '144400000',
             ),
             436 => 
@@ -15828,6 +17264,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '148100000',
             ),
             437 => 
@@ -15839,6 +17276,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '148100000',
             ),
             438 => 
@@ -15850,6 +17288,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '148100000',
             ),
             439 => 
@@ -15861,6 +17300,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '148100000',
             ),
             440 => 
@@ -15872,6 +17312,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '148100000',
             ),
             441 => 
@@ -15883,6 +17324,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '148100000',
             ),
             442 => 
@@ -15894,6 +17336,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '148100000',
             ),
             443 => 
@@ -15905,6 +17348,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => '7302',
                 'province_code' => '150700000',
             ),
             444 => 
@@ -15916,6 +17360,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => '7301',
                 'province_code' => '150700000',
             ),
             445 => 
@@ -15927,6 +17372,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => '7303',
                 'province_code' => '150700000',
             ),
             446 => 
@@ -15938,6 +17384,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => '7305',
                 'province_code' => '150700000',
             ),
             447 => 
@@ -15949,6 +17396,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '150700000',
             ),
             448 => 
@@ -15960,6 +17408,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '150700000',
             ),
             449 => 
@@ -15971,6 +17420,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => '7307',
                 'province_code' => '150700000',
             ),
             450 => 
@@ -15982,6 +17432,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '150700000',
             ),
             451 => 
@@ -15993,6 +17444,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => '7311',
                 'province_code' => '150700000',
             ),
             452 => 
@@ -16004,6 +17456,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '150700000',
             ),
             453 => 
@@ -16015,6 +17468,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '150700000',
             ),
             454 => 
@@ -16026,6 +17480,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '150700000',
             ),
             455 => 
@@ -16037,6 +17492,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             456 => 
@@ -16048,6 +17504,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             457 => 
@@ -16059,6 +17516,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             458 => 
@@ -16070,6 +17528,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             459 => 
@@ -16081,6 +17540,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             460 => 
@@ -16092,6 +17552,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             461 => 
@@ -16103,6 +17564,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             462 => 
@@ -16114,6 +17576,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             463 => 
@@ -16125,6 +17588,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             464 => 
@@ -16136,6 +17600,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             465 => 
@@ -16147,6 +17612,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             466 => 
@@ -16158,6 +17624,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             467 => 
@@ -16169,6 +17636,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             468 => 
@@ -16180,6 +17648,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             469 => 
@@ -16191,6 +17660,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             470 => 
@@ -16202,6 +17672,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             471 => 
@@ -16213,6 +17684,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             472 => 
@@ -16224,6 +17696,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             473 => 
@@ -16235,6 +17708,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             474 => 
@@ -16246,6 +17720,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             475 => 
@@ -16257,6 +17732,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             476 => 
@@ -16268,6 +17744,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             477 => 
@@ -16279,6 +17756,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             478 => 
@@ -16290,6 +17768,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             479 => 
@@ -16301,6 +17780,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             480 => 
@@ -16312,6 +17792,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             481 => 
@@ -16323,6 +17804,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             482 => 
@@ -16334,6 +17816,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             483 => 
@@ -16345,6 +17828,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             484 => 
@@ -16356,6 +17840,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             485 => 
@@ -16367,6 +17852,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             486 => 
@@ -16378,6 +17864,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             487 => 
@@ -16389,6 +17876,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             488 => 
@@ -16400,6 +17888,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             489 => 
@@ -16411,6 +17900,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             490 => 
@@ -16422,6 +17912,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             491 => 
@@ -16433,6 +17924,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             492 => 
@@ -16444,6 +17936,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             493 => 
@@ -16455,6 +17948,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             494 => 
@@ -16466,6 +17960,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153600000',
             ),
             495 => 
@@ -16477,6 +17972,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             496 => 
@@ -16488,6 +17984,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             497 => 
@@ -16499,6 +17996,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             498 => 
@@ -16510,6 +18008,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             499 => 
@@ -16521,6 +18020,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
         ));
@@ -16534,6 +18034,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             1 => 
@@ -16545,6 +18046,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             2 => 
@@ -16556,6 +18058,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             3 => 
@@ -16567,6 +18070,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             4 => 
@@ -16578,6 +18082,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             5 => 
@@ -16589,6 +18094,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             6 => 
@@ -16600,6 +18106,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             7 => 
@@ -16611,6 +18118,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             8 => 
@@ -16622,6 +18130,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             9 => 
@@ -16633,6 +18142,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             10 => 
@@ -16644,6 +18154,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             11 => 
@@ -16655,6 +18166,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             12 => 
@@ -16666,6 +18178,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             13 => 
@@ -16677,6 +18190,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             14 => 
@@ -16688,6 +18202,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             15 => 
@@ -16699,6 +18214,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             16 => 
@@ -16710,6 +18226,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             17 => 
@@ -16721,6 +18238,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             18 => 
@@ -16732,6 +18250,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             19 => 
@@ -16743,6 +18262,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             20 => 
@@ -16754,6 +18274,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             21 => 
@@ -16765,6 +18286,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             22 => 
@@ -16776,6 +18298,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             23 => 
@@ -16787,6 +18310,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             24 => 
@@ -16798,6 +18322,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             25 => 
@@ -16809,6 +18334,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             26 => 
@@ -16820,6 +18346,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             27 => 
@@ -16831,6 +18358,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             28 => 
@@ -16842,6 +18370,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             29 => 
@@ -16853,6 +18382,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             30 => 
@@ -16864,6 +18394,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '153800000',
             ),
             31 => 
@@ -16875,6 +18406,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '156600000',
             ),
             32 => 
@@ -16886,6 +18418,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7400',
                 'province_code' => '156600000',
             ),
             33 => 
@@ -16897,6 +18430,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '156600000',
             ),
             34 => 
@@ -16908,6 +18442,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '156600000',
             ),
             35 => 
@@ -16919,6 +18454,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '156600000',
             ),
             36 => 
@@ -16930,6 +18466,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '156600000',
             ),
             37 => 
@@ -16941,6 +18478,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7402',
                 'province_code' => '156600000',
             ),
             38 => 
@@ -16952,6 +18490,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '156600000',
             ),
             39 => 
@@ -16963,6 +18502,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7408',
                 'province_code' => '156600000',
             ),
             40 => 
@@ -16974,6 +18514,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '156600000',
             ),
             41 => 
@@ -16985,6 +18526,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7401',
                 'province_code' => '156600000',
             ),
             42 => 
@@ -16996,6 +18538,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7412',
                 'province_code' => '156600000',
             ),
             43 => 
@@ -17007,6 +18550,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => '7403',
                 'province_code' => '156600000',
             ),
             44 => 
@@ -17018,6 +18562,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '156600000',
             ),
             45 => 
@@ -17029,6 +18574,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '156600000',
             ),
             46 => 
@@ -17040,6 +18586,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '7415',
                 'province_code' => '156600000',
             ),
             47 => 
@@ -17051,6 +18598,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '156600000',
             ),
             48 => 
@@ -17062,6 +18610,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '156600000',
             ),
             49 => 
@@ -17073,6 +18622,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '156600000',
             ),
             50 => 
@@ -17084,6 +18634,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '157000000',
             ),
             51 => 
@@ -17095,6 +18646,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => '7500',
                 'province_code' => '157000000',
             ),
             52 => 
@@ -17106,6 +18658,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '157000000',
             ),
             53 => 
@@ -17117,6 +18670,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => '7505',
                 'province_code' => '157000000',
             ),
             54 => 
@@ -17128,6 +18682,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => '7506',
                 'province_code' => '157000000',
             ),
             55 => 
@@ -17139,6 +18694,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => '7504',
                 'province_code' => '157000000',
             ),
             56 => 
@@ -17150,6 +18706,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '157000000',
             ),
             57 => 
@@ -17161,6 +18718,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '157000000',
             ),
             58 => 
@@ -17172,6 +18730,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '157000000',
             ),
             59 => 
@@ -17183,6 +18742,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '157000000',
             ),
             60 => 
@@ -17194,6 +18754,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => '7510',
                 'province_code' => '157000000',
             ),
             61 => 
@@ -17205,6 +18766,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '160200000',
             ),
             62 => 
@@ -17216,6 +18778,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '160200000',
             ),
             63 => 
@@ -17227,6 +18790,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '160200000',
             ),
             64 => 
@@ -17238,6 +18802,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '160200000',
             ),
             65 => 
@@ -17249,6 +18814,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '160200000',
             ),
             66 => 
@@ -17260,6 +18826,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '160200000',
             ),
             67 => 
@@ -17271,6 +18838,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '160200000',
             ),
             68 => 
@@ -17282,6 +18850,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '160200000',
             ),
             69 => 
@@ -17293,6 +18862,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '160200000',
             ),
             70 => 
@@ -17304,6 +18874,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '160200000',
             ),
             71 => 
@@ -17315,6 +18886,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '160200000',
             ),
             72 => 
@@ -17326,6 +18898,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '160200000',
             ),
             73 => 
@@ -17337,6 +18910,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '160300000',
             ),
             74 => 
@@ -17348,6 +18922,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '160300000',
             ),
             75 => 
@@ -17359,6 +18934,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '160300000',
             ),
             76 => 
@@ -17370,6 +18946,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '160300000',
             ),
             77 => 
@@ -17381,6 +18958,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '160300000',
             ),
             78 => 
@@ -17392,6 +18970,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '160300000',
             ),
             79 => 
@@ -17403,6 +18982,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '160300000',
             ),
             80 => 
@@ -17414,6 +18994,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '160300000',
             ),
             81 => 
@@ -17425,6 +19006,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '160300000',
             ),
             82 => 
@@ -17436,6 +19018,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '160300000',
             ),
             83 => 
@@ -17447,6 +19030,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '160300000',
             ),
             84 => 
@@ -17458,6 +19042,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '160300000',
             ),
             85 => 
@@ -17469,6 +19054,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => '8509',
                 'province_code' => '160300000',
             ),
             86 => 
@@ -17480,6 +19066,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '160300000',
             ),
             87 => 
@@ -17491,6 +19078,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             88 => 
@@ -17502,6 +19090,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             89 => 
@@ -17513,6 +19102,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             90 => 
@@ -17524,6 +19114,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             91 => 
@@ -17535,6 +19126,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             92 => 
@@ -17546,6 +19138,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             93 => 
@@ -17557,6 +19150,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             94 => 
@@ -17568,6 +19162,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             95 => 
@@ -17579,6 +19174,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             96 => 
@@ -17590,6 +19186,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             97 => 
@@ -17601,6 +19198,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             98 => 
@@ -17612,6 +19210,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             99 => 
@@ -17623,6 +19222,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             100 => 
@@ -17634,6 +19234,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             101 => 
@@ -17645,6 +19246,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             102 => 
@@ -17656,6 +19258,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             103 => 
@@ -17667,6 +19270,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             104 => 
@@ -17678,6 +19282,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             105 => 
@@ -17689,6 +19294,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             106 => 
@@ -17700,6 +19306,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             107 => 
@@ -17711,6 +19318,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '166700000',
             ),
             108 => 
@@ -17722,6 +19330,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '166800000',
             ),
             109 => 
@@ -17733,6 +19342,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166800000',
             ),
             110 => 
@@ -17744,6 +19354,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '166800000',
             ),
             111 => 
@@ -17755,6 +19366,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166800000',
             ),
             112 => 
@@ -17766,6 +19378,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166800000',
             ),
             113 => 
@@ -17777,6 +19390,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166800000',
             ),
             114 => 
@@ -17788,6 +19402,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166800000',
             ),
             115 => 
@@ -17799,6 +19414,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166800000',
             ),
             116 => 
@@ -17810,6 +19426,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '166800000',
             ),
             117 => 
@@ -17821,6 +19438,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166800000',
             ),
             118 => 
@@ -17832,6 +19450,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166800000',
             ),
             119 => 
@@ -17843,6 +19462,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '166800000',
             ),
             120 => 
@@ -17854,6 +19474,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166800000',
             ),
             121 => 
@@ -17865,6 +19486,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166800000',
             ),
             122 => 
@@ -17876,6 +19498,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166800000',
             ),
             123 => 
@@ -17887,6 +19510,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166800000',
             ),
             124 => 
@@ -17898,6 +19522,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '2nd',
+                'zipcode' => NULL,
                 'province_code' => '166800000',
             ),
             125 => 
@@ -17909,6 +19534,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166800000',
             ),
             126 => 
@@ -17920,6 +19546,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 0,
                 'is_chartered' => 0,
                 'district' => '1st',
+                'zipcode' => NULL,
                 'province_code' => '166800000',
             ),
             127 => 
@@ -17931,6 +19558,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '168500000',
             ),
             128 => 
@@ -17942,6 +19570,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '168500000',
             ),
             129 => 
@@ -17953,6 +19582,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '168500000',
             ),
             130 => 
@@ -17964,6 +19594,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '168500000',
             ),
             131 => 
@@ -17975,6 +19606,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '168500000',
             ),
             132 => 
@@ -17986,6 +19618,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '168500000',
             ),
             133 => 
@@ -17997,6 +19630,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => 'Lone',
+                'zipcode' => NULL,
                 'province_code' => '168500000',
             ),
         ));

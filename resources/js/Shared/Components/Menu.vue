@@ -53,6 +53,12 @@
                         <i class='ri-team-fill'></i>
                         <span data-key="t-students">Scholars</span>
                     </Link>
+                </li>    
+                <li class="nav-item">
+                    <Link class="nav-link menu-link" :class="{'active': $page.component.startsWith('Modules/School/Temp') }" href="/schools-temporary">
+                        <i class='bx bx-buildings'></i>
+                        <span data-key="t-students">Schools Temporary</span>
+                    </Link>
                 </li>              
             </ul>
             

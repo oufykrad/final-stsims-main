@@ -20,6 +20,7 @@ Route::middleware(['auth'])->group(function () {
     Route::resource('/courses', App\Http\Controllers\CourseController::class);
     Route::resource('/schools', App\Http\Controllers\SchoolController::class);
     Route::resource('/scholars', App\Http\Controllers\ScholarController::class);
+    Route::resource('/schools-temporary', App\Http\Controllers\SchoolTemporaryController::class);
     
     Route::prefix('excel')->group(function(){
         Route::post('/course/import', [App\Http\Controllers\CourseController::class, 'index']);

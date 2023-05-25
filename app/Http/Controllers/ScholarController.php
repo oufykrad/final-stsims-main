@@ -196,6 +196,8 @@ class ScholarController extends Controller
                                 });
                             })
                             ->first();
+                            $barangay = null;
+                            $district = null;
                 
                             if($b != null){
                                 $barangay = $b->code;
@@ -211,6 +213,9 @@ class ScholarController extends Controller
                                 }else{
                                     $address->district = $b->municipality->district;
                                 }
+                                if($barangay != null || $district != null){
+                                    $address->is_completed = 1;
+                                }   
                                 $address->save();
                             }else{
                                 $barangay = null;
@@ -511,7 +516,7 @@ class ScholarController extends Controller
         $is_within = 1;
         $district = null;
         $barangay = null;
-        ($municipality == 'ZAMBOANGA CITY') ? $province = 'ZAMBOANGA CITY' : $province;
+        // ($municipality == 'ZAMBOANGA CITY') ? $province = 'ZAMBOANGA CITY' : $province;
 
         if($province){
             $data = LocationProvince::with('region')
@@ -549,6 +554,10 @@ class ScholarController extends Controller
             }
         }
 
+        if($province != null && $municipality != null && $barangay != null && $district != null){
+            $is_completed = 1;
+        }   
+
         $address = [
             'is_permanent' => 1,
             'is_within' => $is_within,
@@ -558,7 +567,6 @@ class ScholarController extends Controller
             'province_code' => $province,
             'region_code' => $region,
             'district' => $district,
-            // 'profile_id' => $id,
             'is_completed' => $is_completed,
             'created_at' => now(),
             'updated_at' => now(),

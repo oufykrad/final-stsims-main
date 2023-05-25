@@ -25,6 +25,7 @@ Route::middleware(['auth:sanctum'])->group(function () {
         Route::get('/statuses', [App\Http\Controllers\ListController::class, 'api_statuses']);
         Route::get('/dropdowns', [App\Http\Controllers\ListController::class, 'api_dropdowns']);
         Route::get('/location/{type}', [App\Http\Controllers\ListController::class, 'api_location']);
+        Route::get('/settings', [App\Http\Controllers\HomeController::class, 'settings']);
     });
 });
 

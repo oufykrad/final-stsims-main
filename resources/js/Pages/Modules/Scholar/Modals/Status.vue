@@ -1,5 +1,5 @@
 <template>
-    <b-modal v-model="showModal" hide-footer title="Import Bank Account" header-class="p-3 bg-light" size="lg" class="v-modal-custom" modal-class="zoomIn" centered no-close-on-backdrop>
+    <b-modal v-model="showModal" hide-footer title="Import Scholar" header-class="p-3 bg-light" size="lg" class="v-modal-custom" modal-class="zoomIn" centered no-close-on-backdrop>
         
         <b-form action="#" id="editform" class="tablelist-form" autocomplete="off">
             <div class="row justify-content-center">
