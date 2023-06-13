@@ -170,7 +170,7 @@ class ScholarController extends Controller
 
                 
                 $scholar = ScholarProfile::where('firstname',$firstname)->where('lastname',$lastname)->first();
-                if($status != 'Graduated' && $status != 'Terminated' && $status != 'Non-Compliance' && $status != 'Withdrawn'){
+                if($status != 'Graduated' && $status != 'Terminated' && $status != 'Non-Compliance' && $status != 'Withdrawn' && $status != 'Unknown'){
                     if($scholar){
                         $scholar_id = $scholar->scholar_id;
                         
@@ -179,7 +179,7 @@ class ScholarController extends Controller
                             $scholar = Scholar::where('id',$scholar_id)->update(['status_id' => $status_info->id]);
                            
                             $level_id = ListDropdown::where('classification','Level')->where('name',$level)->pluck('id')->first();
-                            $education = ScholarEducation::where('scholar_id',$scholar_id)->update(['graduated_year' => $graduated, 'level_id' => $level_id]);
+                            $education = ScholarEducation::where('scholar_id',$scholar_id)->update(['level_id' => $level_id]);
 
                             $address = ScholarAddress::where('scholar_id',$scholar_id)->first();
                             $province_code = $address->province_code;
@@ -224,6 +224,12 @@ class ScholarController extends Controller
                         }
                     }else{
                         array_push($failed,$firstname.' '.$lastname );
+                    }
+                }else if($status == 'Graduated'){
+                    if($scholar){
+                        $scholar_id = $scholar->scholar_id;
+                        $education = ScholarEducation::where('scholar_id',$scholar_id)->update(['graduated_year' => $graduated]);
+                        array_push($success,$scholar_id);
                     }
                 }
             }
@@ -437,7 +443,7 @@ class ScholarController extends Controller
     }
 
     public function status($name){
-        if($name == 'NEW' || $name == 'ONGOING' || $name == 'UNKNOWN'){
+        if($name == 'NEW' || $name == 'ONGOING'){
             return 6;
         }else{
             $status = ListStatus::select('id')->where('name',$name)->first();
@@ -550,7 +556,37 @@ class ScholarController extends Controller
                     $district = $m->district;
                 }
             }else{
-                $municipality = null;
+                $municipality = strtolower($municipality);
+                $test = strpos($municipality,'city');
+                if($test){
+                    $list = str_replace(" city",'',$municipality);
+                    $municipality = 'City of '.$list;
+
+                    $m = LocationMunicipality::where(function($query) use ($municipality) {  
+                        $query->where('name','LIKE', '%'.$municipality.'%');
+                    })
+                    ->when($province, function ($query, $province) {
+                        $query->whereHas('province',function ($query) use ($province) {
+                            $query->where('province_code',$province);
+                        });
+                    })
+                    ->first();
+    
+                    if($m != null){
+                        if($zipcode){
+                            $m->zipcode = $zipcode;
+                            $m->save();
+                        }
+                        $municipality = $m->code;
+                        if(!$m->is_chartered){
+                            $district = $m->district;
+                        }
+                    }else{
+                        $municipality = null;
+                    }
+                }else{
+                    $municipality = null;
+                }
             }
         }
 

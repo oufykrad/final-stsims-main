@@ -13839,7 +13839,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
             array (
                 'id' => 1152,
                 'code' => '098312000',
-                'name' => 'Roseller Lim',
+                'name' => 'Roseller T. Lim',
                 'old_name' => NULL,
                 'is_municipality' => 1,
                 'is_chartered' => 0,
@@ -13904,8 +13904,8 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'is_municipality' => 1,
                 'is_chartered' => 0,
                 'district' => '',
-                'zipcode' => NULL,
-                'province_code' => '157000000',
+                'zipcode' => '7300',
+                'province_code' => '150700000',
             ),
             157 => 
             array (
