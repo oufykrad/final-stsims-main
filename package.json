@@ -26,6 +26,7 @@
         "@suadelabs/vue3-multiselect": "^1.0.2",
         "bootstrap-vue-3": "^0.4.15",
         "i": "^0.3.7",
+        "maska": "^2.1.10",
         "npm": "^9.4.2",
         "prismjs": "^1.29.0",
         "simplebar-vue3": "^0.2.0",

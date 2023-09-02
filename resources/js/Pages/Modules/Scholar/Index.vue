@@ -139,7 +139,7 @@ export default {
             return this.programs.filter(x => x.is_sub === 1);
         },
         listsubprograms() {
-            return this.programs.filter(x => x.is_sub === 0);
+            return this.programs;
         },
         categories : function() {
             return this.dropdowns.filter(x => x.classification === 'Category');

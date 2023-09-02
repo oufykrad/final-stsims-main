@@ -20,6 +20,7 @@ Route::middleware(['auth'])->group(function () {
     Route::resource('/courses', App\Http\Controllers\CourseController::class);
     Route::resource('/schools', App\Http\Controllers\SchoolController::class);
     Route::resource('/scholars', App\Http\Controllers\ScholarController::class);
+    Route::resource('/qualifiers', App\Http\Controllers\QualifierController::class);
     Route::resource('/schools-temporary', App\Http\Controllers\SchoolTemporaryController::class);
     
     Route::prefix('excel')->group(function(){

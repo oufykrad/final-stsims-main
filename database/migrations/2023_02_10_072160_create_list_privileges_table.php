@@ -18,6 +18,7 @@ return new class extends Migration
             $table->tinyIncrements('id');
             $table->string('name')->unique();
             $table->string('type');
+            $table->string('short',100);
             $table->decimal('regular_amount',12,2);
             $table->decimal('summer_amount',12,2);
             $table->boolean('is_fixed');
