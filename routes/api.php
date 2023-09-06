@@ -26,6 +26,12 @@ Route::middleware(['auth:sanctum'])->group(function () {
         Route::get('/dropdowns', [App\Http\Controllers\ListController::class, 'api_dropdowns']);
         Route::get('/location/{type}', [App\Http\Controllers\ListController::class, 'api_location']);
         Route::get('/settings', [App\Http\Controllers\HomeController::class, 'settings']);
+
+        Route::prefix('qualifiers')->group(function(){
+            Route::get('/', [App\Http\Controllers\QualifierController::class, 'index']);
+            Route::post('/', [App\Http\Controllers\QualifierController::class, 'store']);
+            Route::get('/insights', [App\Http\Controllers\QualifierController::class, 'insights']);
+        });
     });
 });
 

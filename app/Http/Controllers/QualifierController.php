@@ -15,6 +15,7 @@ use App\Models\ListDropdown;
 use App\Models\LocationProvince;
 use App\Models\LocationBarangay;
 use App\Models\LocationMunicipality;
+use Laravel\Sanctum\PersonalAccessToken;
 use Maatwebsite\Excel\Facades\Excel;
 use App\Imports\QualifiersImport;
 use Illuminate\Http\Request;
@@ -23,7 +24,15 @@ use App\Http\Resources\Qualifiers\IndexResource;
 class QualifierController extends Controller
 {
     public function index(Request $request){
-        if($request->lists){
+        $bearer = $request->bearerToken();
+        if($bearer){
+            $token = PersonalAccessToken::findToken($bearer);
+            $region = $token->tokenable->profile->agency->region_code;
+        }else{
+            $region = null;
+        }
+
+        if($request->lists){ 
             $info = (!empty(json_decode($request->info))) ? json_decode($request->info) : NULL;
             $location = (!empty(json_decode($request->location))) ? json_decode($request->location) : NULL;
             $keyword = $info->keyword;
@@ -50,9 +59,15 @@ class QualifierController extends Controller
                     ($info->program == null) ? '' : $query->where('program_id',$info->program);
                     ($info->subprogram == null) ? '' : $query->where('subprogram_id',$info->subprogram);
                     ($info->status == null) ? '' : $query->where('status_id',$info->status);
-                    ($info->year == null) ? '' : $query->where('qualifier_year',$info->year);
+                    ($info->type == null) ? '' : $query->where('status_type',$info->type);
+                    // ($info->year == null) ? '' : $query->where('qualified_year',$info->year);
                     // ($keyword == null) ? '' : $query->where('spas_id', 'LIKE', '%'.$keyword.'%');
                  })
+                 ->when($region, function ($query, $region) {
+                    $query->whereHas('address',function ($query) use ($region) {
+                        $query->where('region_code',$region); 
+                    });
+                })
                 ->paginate($request->counts)
                 ->withQueryString()
             );
@@ -80,7 +95,6 @@ class QualifierController extends Controller
     }
 
     public function enroll($request){ 
-        // dd($request->user);
         $scholar = $request->user;
 
         $count = Scholar::where('spas_id',$scholar['spas_id'])->count();
@@ -532,6 +546,106 @@ class QualifierController extends Controller
             $status = ListStatus::select('id')->where('name',$name)->first();
             return $status->id;
         }
+    }
+
+    public function api(Request $request){
+        $bearer = $request->bearerToken();
+        $token = PersonalAccessToken::findToken($bearer);
+        $region = $token->tokenable->profile->agency->region_code;
+       
+        $data = Qualifier::with('address')->with('profile')
+        ->whereHas('address',function ($query) use ($region) {
+            $query->where('region_code',$region); 
+        })
+        ->get();
+        return $data;
+    }
+
+    public function insights(Request $request){
+
+        $bearer = $request->bearerToken();
+        $token = PersonalAccessToken::findToken($bearer);
+        $code = $token->tokenable->profile->agency->region_code;
+
+
+        $array = [];
+        $data = Qualifier::select('qualified_year AS x',\DB::raw('count(*) AS y'))
+        ->when($code, function ($query, $code) {
+            $query->whereHas('address',function ($query) use ($code) {
+                $query->where('region_code',$code);
+            });
+        })
+        ->orderBy('qualified_year')->groupBy('qualified_year')->get();
+        $len = count($data);
+        
+        $arr = [
+            'name' => 'Qualifiers',
+            'data' => $data
+        ];
+        array_push($array,$arr);
+
+        $statistics = [
+            Qualifier::where('status_type',14)->where('qualified_year',date('Y'))->when($code, function ($query, $code) {
+                $query ->whereHas('address',function ($query) use ($code) {
+                    $query->where('region_code',$code);
+                });
+            })->count(),
+            Qualifier::where('status_type',15)->where('qualified_year',date('Y'))->when($code, function ($query, $code) {
+                $query ->whereHas('address',function ($query) use ($code) {
+                    $query->where('region_code',$code);
+                });
+            })->count(),
+            Qualifier::where('status_type',16)->where('qualified_year',date('Y'))->when($code, function ($query, $code) {
+                $query ->whereHas('address',function ($query) use ($code) {
+                    $query->where('region_code',$code);
+                });
+            })->count(),
+            Qualifier::where('status_type',17)->where('qualified_year',date('Y'))->when($code, function ($query, $code) {
+                $query ->whereHas('address',function ($query) use ($code) {
+                    $query->where('region_code',$code);
+                });
+            })->count()
+        ];
+
+        $statistics2 = [
+            Qualifier::where('status_id',18)->where('qualified_year',date('Y'))->when($code, function ($query, $code) {
+                $query ->whereHas('address',function ($query) use ($code) {
+                    $query->where('region_code',$code);
+                });
+            })->count(),
+            Qualifier::where('status_id',19)->where('qualified_year',date('Y'))->when($code, function ($query, $code) {
+                $query ->whereHas('address',function ($query) use ($code) {
+                    $query->where('region_code',$code);
+                });
+            })->count(),
+            Qualifier::where('status_id',20)->where('qualified_year',date('Y'))->when($code, function ($query, $code) {
+                $query ->whereHas('address',function ($query) use ($code) {
+                    $query->where('region_code',$code);
+                });
+            })->count()
+        ];
+
+        return $arr = [
+            'name' => 'Qualifiers',
+            'icon' => 'bxs-user-circle',
+            'color' => 'danger',
+            'series' => $array,
+            'number' => ($len != 0 && $len != 1) ? $d = $data[$len-1]['y']-$data[$len-2]['y'] : 0,
+            'percent' => ($len != 0 && $len != 1) ? round($d/$data[$len-1]['y']*100) : 0,
+            'total' => Qualifier::when($code, function ($query, $code) {
+                $query ->whereHas('address',function ($query) use ($code) {
+                    $query->where('region_code',$code);
+                });
+            })->count(),
+            'current' => Qualifier::where('qualified_year',date('Y'))->when($code, function ($query, $code) {
+                $query ->whereHas('address',function ($query) use ($code) {
+                    $query->where('region_code',$code);
+                });
+            })->count(),
+            'year' => date('Y'),
+            'statistics' => $statistics,
+            'statistics2' => $statistics2
+        ];
     }
 }
 
