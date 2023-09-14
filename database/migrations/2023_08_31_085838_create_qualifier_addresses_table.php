@@ -19,6 +19,8 @@ return new class extends Migration
             $table->string('district')->nullable();
             $table->string('zipcode')->nullable();
             $table->string('hs_school')->nullable();
+            $table->string('assigned_region')->nullable()->constrained();
+            $table->foreign('assigned_region')->references('code')->on('location_regions')->onDelete('cascade');
             $table->string('region_code')->nullable()->constrained();
             $table->foreign('region_code')->references('code')->on('location_regions')->onDelete('cascade');
             $table->string('province_code')->nullable()->constrained();

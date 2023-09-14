@@ -86,6 +86,7 @@
                                     <span :class="'badge '+list.status.color+' '+list.status.others">{{list.status.name}}</span>
                                 </td>
                                 <td class="text-end">
+                                    <b-button variant="soft-primary" @click="endorse(list)" v-b-tooltip.hover title="Endorse" size="sm" class="edit-list me-1"><i class="ri-swap-fill align-bottom"></i> </b-button>
                                     <b-button v-if="list.type.name != 'Enrolled'" @click="add(list)" variant="soft-primary" v-b-tooltip.hover title="Add Scholar" size="sm" class="edit-list me-1"><i class="ri-user-add-fill align-bottom"></i> </b-button>
                                     <b-button v-if="list.address.is_completed == 0" @click="update(list)" variant="soft-danger" v-b-tooltip.hover title="Update Address" size="sm" class="remove-list me-1"><i class="ri-map-pin-fill align-bottom"></i></b-button>
                                     <b-button variant="soft-primary" v-b-tooltip.hover title="Edit" size="sm" class="edit-list"><i class="ri-pencil-fill align-bottom"></i> </b-button>
@@ -100,9 +101,11 @@
     </div>
     <Update ref="update" :dropdowns="dropdowns"/>
     <Add ref="add"/>
+    <Endorse ref="endorse"/>
     <Import ref="import"/>
 </template>
 <script>
+import Endorse from './Modals/Endorse.vue';
 import Add from './Modals/Add.vue';
 import Import from './Modals/Import.vue';
 import Update from './Modals/Update.vue';
@@ -110,7 +113,7 @@ import PageHeader from "@/Shared/Components/PageHeader.vue";
 import Pagination from "@/Shared/Components/Pagination.vue";
 export default {
     props: ['statuses','programs','dropdowns'],
-    components: { PageHeader, Pagination, Update, Add, Import },
+    components: { PageHeader, Pagination, Update, Add, Import, Endorse },
     data() {
         return {
             currentUrl: window.location.origin,
@@ -172,6 +175,7 @@ export default {
         fetch(page_url) {
             let info = {
                 'keyword' : this.keyword,
+                'type' : (this.type ==  null) ? null : this.type, 
                 'status' : (this.status ==  null) ? null : this.status, 
                 'program' : (this.program ==  null) ? null : this.program, 
                 'subprogram' : (this.subprogram ==  null) ? null : this.subprogram, 
@@ -210,6 +214,9 @@ export default {
         },
         add(data){
             this.$refs.add.show(data);
+        },
+        endorse(data){
+            this.$refs.endorse.show(data);
         },
         message(data){
             let index = this.lists.findIndex(u => u.id === data.id);

@@ -209,7 +209,7 @@ class ListStatusesTableSeeder extends Seeder
             17 => 
             array (
                 'id' => 18,
-                'name' => 'Complete',
+                'name' => 'Completed',
                 'type' => 'Qualifier Status',
                 'color' => 'bg-success',
                 'others' => 'n/a',

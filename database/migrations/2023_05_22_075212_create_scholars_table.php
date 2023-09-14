@@ -27,6 +27,7 @@ return new class extends Migration
             $table->tinyInteger('status_id')->unsigned()->index();
             $table->foreign('status_id')->references('id')->on('list_statuses')->onDelete('cascade');
             $table->year('awarded_year');
+            $table->boolean('is_endorsed')->default(0);
             $table->boolean('is_completed')->default(0);
             $table->timestamps();
         });

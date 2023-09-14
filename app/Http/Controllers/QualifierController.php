@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Endorsement;
 use App\Models\Qualifier;
 use App\Models\QualifierProfile;
 use App\Models\QualifierAddress;
@@ -19,6 +20,7 @@ use Laravel\Sanctum\PersonalAccessToken;
 use Maatwebsite\Excel\Facades\Excel;
 use App\Imports\QualifiersImport;
 use Illuminate\Http\Request;
+use App\Http\Resources\EndorsementResource;
 use App\Http\Resources\Qualifiers\IndexResource;
 
 class QualifierController extends Controller
@@ -91,12 +93,51 @@ class QualifierController extends Controller
             case 'enroll':
                 return $this->enroll($request);
             break;
+            case 'endorse':
+                return $this->endorse($request);
+            break;
+            case 'endorsed':
+                return $this->endorsed($request);
+            break;
         }
+    }
+
+    public function endorsed($request){
+        $bearer = $request->bearerToken();
+        $token = PersonalAccessToken::findToken($bearer);
+        $region = $token->tokenable->profile->agency->region_code;
+        // return response()->json($request);
+        $data = Endorsement::where('id',$request->id)->update(['is_approved' => 1, 'is_seened' => 1]);
+        $data = $this->enroll($request);
+
+        return response()->json($data);
+      
+    }
+
+    public function endorse($request){
+        $bearer = $request->bearerToken();
+        $token = PersonalAccessToken::findToken($bearer);
+        $region = $token->tokenable->profile->agency->region_code;
+
+        $postData = array(
+            'course_id' => $request->course_id,
+            'school_id' => $request->school['id'],
+            'endorsed_by' => $region,
+            'endorsed_to' => $request->school['region'],
+            'qualifier_id' => $request->user['id'],
+            'user_id' => $token->tokenable->id,
+            'created_at' => now(),
+            'updated_at' => now()
+        );
+
+        $data = Endorsement::create($postData);
+
+        return response()->json($data);
+      
     }
 
     public function enroll($request){ 
         $scholar = $request->user;
-
         $count = Scholar::where('spas_id',$scholar['spas_id'])->count();
         if($count == 0){
             $info = [
@@ -108,6 +149,8 @@ class QualifierController extends Controller
                 'status_id' => 7,
                 'awarded_year' =>  $scholar['qualified_year'],
                 'is_completed' => 1,
+                'created_at' => now(),
+                'updated_at' => now()
             ];
 
             \DB::beginTransaction();
@@ -171,6 +214,11 @@ class QualifierController extends Controller
                             $qualifier = Qualifier::where('id',$scholar['id'])->update(['status_type' => 17, 'status_id' => 18,'is_completed' => 1]);
                             $type = 'bxs-check-circle';
                             $message = 'Qualifier tag as scholar successfully. Thanks';
+                            if($qualifier){
+                                $q =  Qualifier::with('address.region','address.province','address.municipality','address.barangay')
+                                    ->with('profile','program','subprogram','status','type')
+                                    ->where('id',$scholar['id'])->first();
+                            }
                             \DB::commit();
                         }else{
                             $type = 'bxs-x-circle';
@@ -196,12 +244,13 @@ class QualifierController extends Controller
             $type = 'bxs-x-circle';
             $message = 'Duplicate Entry';
         }
+        // $data = [
 
-        return back()->with([
-            'message' => $message,
-            'data' =>  '',
-            'type' => $type
-        ]); 
+        // ];
+
+        return response()->json($q);
+
+    
 
     }
 
@@ -644,7 +693,13 @@ class QualifierController extends Controller
             })->count(),
             'year' => date('Y'),
             'statistics' => $statistics,
-            'statistics2' => $statistics2
+            'statistics2' => $statistics2,
+            'endorsements' => EndorsementResource::collection(
+                Endorsement::with('school.school','school.assigned','course','endorsedby')
+                ->with('qualifier.address.region','qualifier.address.province','qualifier.address.municipality','qualifier.address.barangay')
+                ->with('qualifier.profile','qualifier.program','qualifier.subprogram','qualifier.status','qualifier.type')
+                ->where('endorsed_to',$code)->where('is_approved',0)->get()
+            )
         ];
     }
 }
