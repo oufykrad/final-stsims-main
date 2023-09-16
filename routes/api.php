@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::middleware(['auth:sanctum'])->group(function () {
     Route::prefix('01101011 01110010 01100001 01100100')->group(function(){
-        Route::get('/scholars/{code}', [App\Http\Controllers\ScholarController::class, 'api']);
+        
         Route::get('/courses', [App\Http\Controllers\CourseController::class, 'api']);
         Route::get('/schools', [App\Http\Controllers\SchoolController::class, 'api']);
         Route::get('/agencies', [App\Http\Controllers\ListController::class, 'api_agencies']);
@@ -32,6 +32,12 @@ Route::middleware(['auth:sanctum'])->group(function () {
             Route::post('/', [App\Http\Controllers\QualifierController::class, 'store']);
             Route::get('/insights', [App\Http\Controllers\QualifierController::class, 'insights']);
         });
+
+        Route::prefix('scholars')->group(function(){
+            Route::get('/{code}', [App\Http\Controllers\ScholarController::class, 'api']);
+            Route::post('/', [App\Http\Controllers\ScholarController::class, 'sync']);
+        });
+
     });
 });
 

@@ -30,9 +30,9 @@ class Scholar extends Model
         return $this->hasOne('App\Models\ScholarEducation', 'scholar_id');
     } 
 
-    public function addresses()
+    public function address()
     {
-        return $this->hasMany('App\Models\ScholarAddress', 'scholar_id');
+        return $this->hasOne('App\Models\ScholarAddress', 'scholar_id');
     } 
 
     public function status()

@@ -75,10 +75,10 @@
                                     <p class="fs-11 text-muted mb-0">{{ (!Object.keys(list.education.course).includes('name'))  ? list.education.course : list.education.course.name }}</p>
                                 </td>
                                  <td class="text-center">
-                                    <h5 class="fs-11 mb-0 text-dark">{{(list.addresses[0].address) ? list.addresses[0].address+',' : ''}} {{(list.addresses[0].barangay) ? list.addresses[0].barangay.name+',' : ''}} {{(list.addresses[0].municipality) ? list.addresses[0].municipality.name+',' : ''}}</h5>
+                                    <h5 class="fs-11 mb-0 text-dark">{{(list.address.address) ? list.address.address+',' : ''}} {{(list.address.barangay) ? list.address.barangay.name+',' : ''}} {{(list.address.municipality) ? list.address.municipality.name+',' : ''}}</h5>
                                     <p class="fs-11 text-muted mb-0">
-                                        {{(list.addresses[0].province) ? list.addresses[0].province.name+',' : ''}}
-                                        {{(list.addresses[0].region) ? list.addresses[0].region.region : ''}}
+                                        {{(list.address.province) ? list.address.province.name+',' : ''}}
+                                        {{(list.address.region) ? list.address.region.region : ''}}
                                     </p>
                                 </td>
                                 <td class="text-center">
